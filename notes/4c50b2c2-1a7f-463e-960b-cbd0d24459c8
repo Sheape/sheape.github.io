@@ -1,0 +1,50 @@
+* Kinds of Operating Systems
+:PROPERTIES:
+:ID:       4c50b2c2-1a7f-463e-960b-cbd0d24459c8
+:END:
+** iOS
+:PROPERTIES:
+:ID:       af8e26f9-300d-491d-b8a5-1d57119a2665
+:END:
++ *iOS or iPhone Operating System* is a mobile operating system created and developed by _Apple Inc._ exclusively for its hardware.
++ It is the operating system that presently powers many of the company's mobile devices, including the iPhone, iPad, and iPod Touch
++ (Latest Version: _iOS 15.6.1_)
+** Android OS
+:PROPERTIES:
+:ID:       24643cab-769c-4920-ad6f-62beb6894bca
+:END:
++ is a mobile operating system developed by _Google_.
++ It is designed primarily for touchscreen mobile devices such as smartphones and tablets
++ (Latest Version: _Android 12_ code name is /snow cone/)
+** Blackberry OS
+:PROPERTIES:
+:ID:       930b6d11-8b78-4d92-bf2b-92a34c790c91
+:END:
++ is a proprietary mobile operating system developed by _BlackBerry Limited_ for its BlackBerry line of smartphone handheld devices
++ (Latest Version: _10.3_)
+
+** Windows Phone OS
+:PROPERTIES:
+:ID:       e690c04f-1e87-4124-8707-871240b4333e
+:END:
++ was a family of mobile operating systems developed by _Microsoft_ for smartphones as the replacement successor to [[id:682f5424-5b88-40b8-a514-82a467803561][Windows Mobile]] and Zune.
++ *Windows Phone* features a new user interface derived from Metro Design Language.
+** Symbian
+:PROPERTIES:
+:ID:       9aa43fa0-3267-444a-b4ac-5204d7438b99
+:END:
++ It was a mobile operating system and computing platform designed for smartphones.
++ *Symbian* was originally developed as a closed-source OS for PDAs in _1998_ by _Symbian Ltd._
+
+** WebOS
+:PROPERTIES:
+:ID:       442ee8a0-787c-41a9-af12-566d56aecc82
+:END:
++ *Open WebOS* or *LG WebOS*
++ is a multitasking operating system for smart devices such as Smart TVs and it has been used as a mobile operating system.
+
+** Windows Mobile
+:PROPERTIES:
+:ID:       682f5424-5b88-40b8-a514-82a467803561
+:END:
++ It is a family of mobile operating systems developed by _Microsoft_ for smartphones and Pocket PCs.

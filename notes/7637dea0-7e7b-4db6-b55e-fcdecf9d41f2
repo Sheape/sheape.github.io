@@ -1,0 +1,19 @@
+** SI Base Units
+:PROPERTIES:
+:ID:       7637dea0-7e7b-4db6-b55e-fcdecf9d41f2
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/International_System_of_Units#Base_units
+:END:
+- These are the building blocks for units derived from them.
+|-------------------------------+----------+--------|
+| Quantity                      | Unit     | Symbol |
+|-------------------------------+----------+--------|
+| time (t)                      | second   | s      |
+| length (l)                    | metre    | m      |
+| mass (m)                      | kilogram | kg     |
+| electric current (I)          | ampere   | A      |
+| thermodynamic temperature (T) | kelvin   | K      |
+| amount of substance (n)       | mole     | mol    |
+| luminous intensity (I_v)      | candela  | cd     |
+|-------------------------------+----------+--------|
+

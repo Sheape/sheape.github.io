@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       43e3dbd0-c650-491a-9ac1-b08e88967792
+:END:
+#+title: Cell Structure
+
+* Prokaryotic organelles
+:PROPERTIES:
+:ID:       0b7ad370-15f6-4cc4-9d1a-0af6ba94d760
+:END:
+[[file:assets/biology/q1/w1/prokaryotic-organelles.png]]
+- Also called _no membrane-bound organelles_.
+- These are /organelles/ that are not inside of a membrane of a cell.
+** Plasma/Cell Membrane
+:PROPERTIES:
+:ID:       79fc987e-0158-4755-a44f-426f769c5237
+:SOURCE:   Youtube
+:SOURCE_LINK: https://www.youtube.com/watch?v=DyxHF0qUnjs
+:END:
+- It seperates what's inside and outside of the cell.
+- They let some things through such as food and energy, but also defends itself from the environment and other cells.
+- It is made of _phospholipid bilayer_ and the different types of proteins floating around it.
+- The cell membrane is *semi-permeable*.
+** Cell Wall
+:PROPERTIES:
+:ID:       c38e3073-0414-4c8b-bc9b-6ca38c5299cc
+:END:
+- Outer layer of [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]].
+- Made up of _peptidoglycan_, a polymer of sugars and amino acids that creates a mesh-like layer around the cell.
+- Its function is to provide additional protection for the cell.
+** Capsule
+:PROPERTIES:
+:ID:       35745c84-d4fc-4ac1-8e63-a41c080bec24
+:END:
+- The outermost layer of the cell that provides the cover for the cell wall.
+** Cytoplasm
+:PROPERTIES:
+:ID:       e3f8accc-0bd5-47c6-8268-b0fb72e873d4
+:END:
+- The interior of the cell is called the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]].
+- Specifically, the fluid within the membrane is called _cytosol_.
+- Its a jelly-like fluid where all inside components are floating around.
+** Nucleoid
+:PROPERTIES:
+:ID: 7f1daebc-e643-4712-b95e-2f5320aade81
+:END:
+#TODO
+- Similar to the nucleus in a eukaryotic cell, this holds genetic information about the cell.
+- The [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosome]] is responsible for the DNA transcription to happen.
+** Plasmid
+:PROPERTIES:
+:ID:       a98ea156-2bce-4285-8ebd-d974a87e7f47
+:END:
+- A small, _extrachromosomal DNA_ that is physicall seperated from the cell's DNA.
+- It can replicate independently and is also vital for the survival of a cell or organism.
+** Ribosome
+:PROPERTIES:
+:ID: 4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13
+:END:
+#TODO: brb to this
+- They are responsible for protein production as a product of DNA transcription.
+- It does this by binding itself to _mRNA (messenger RNA)_ to determine the correct sequence of amino acids.
+- The DNA translation provides the _protein_ (that includes enzymes from the DNA) and _DNA polymerase_.
+- The process also provides _hexokinase_ which has a role in metabolism that provides the energy needed for the cell to function.
+  - You can compare this to mitochondria in the eukaryotic cells.
+** Flagellum
+:PROPERTIES:
+:ID:       dcdb03d3-2550-4802-aaa0-73ce6ecb83bb
+:END:
+- A hairlike appendage that has a couple of functions for motility.
+- The bacteria uses their flagella to:
+  - move in fluid (/motility/),
+  - in response to changes in concentration of chemical (/chemotaxis/)
+  - movement in response to light (/phototaxis/) or movement in response to oxygen levels (/aerotaxis/)
+  - helps in colonizing and infecting host organisms.
+*** Types
+1. Bacterial flagella
+2. Archaeal flagella

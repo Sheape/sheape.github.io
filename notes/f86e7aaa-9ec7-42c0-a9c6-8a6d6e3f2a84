@@ -1,0 +1,36 @@
+** Experimental Design
+:PROPERTIES:
+:ID:       f86e7aaa-9ec7-42c0-a9c6-8a6d6e3f2a84
+:END:
+- quantitative research design that bases its research method on an *experiment.
+- in which a *test or examination* of a thing under a _manipulated or controlled environment_ is done to determine the validity of a thing.
+- involves two groups of subjects:
+  + _Experimental group_: in which the condition, treatment, or intervention is applied.
+  + _Control group_: not given any treatment.
+*** Quasi Experimental
+:PROPERTIES:
+:ID:       c2c8798b-98c3-4b77-9510-c1980761d31b
+:END:
+- also called /Causal comparative/.
+- has *cause and effect relationship* of variables.
+- _lesser validity_ due to the absence of random selection and assignment of subjects.
+- /Gay (1996)/ considers this design as _descriptive_, for it describes existing conditions.
+- more *structured manipulation* of _independent variables_.
+- often used when [[id:ef6a169e-6c76-4a46-81da-ccdb2bbd2129][true experiments]] are not feasible due to ethical or practical constraints.
+- the term /quasi/ means partly, partially, pseudo or almost.
+#+begin_example
+"The effects of unemployment on attitude towards following safety protocol in ECQ declared areas."
+#+end_example
+
+*** True Experimental
+:PROPERTIES:
+:ID:       ef6a169e-6c76-4a46-81da-ccdb2bbd2129
+:END:
+- a more robust design and has _more conclusive result_ than [[id:c2c8798b-98c3-4b77-9510-c1980761d31b][Quasi Experimental]].
+- the researcher is authorized to control the situation and manipulates the _independent variable_ to detect its influence on the _dependent variable_.
+- /Bryman (2008)/ In social science, many IVs cannot be manipulated.
+- it uses random assignment of subjects and experimental manipulation.
+#+begin_example
+"A comparison of the effects of various blended learning to the reading comprehension of elementary pupils."
+#+end_example
+

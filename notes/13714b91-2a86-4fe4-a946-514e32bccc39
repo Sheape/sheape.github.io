@@ -1,0 +1,14 @@
+* Purpose
+:PROPERTIES:
+:ID:       13714b91-2a86-4fe4-a946-514e32bccc39
+:END:
++ The aim of [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]] is to have machines understand the user's preferences to be able _to deliver web content_ specifically targeting the user.
+#+begin_example
+- Video recommendation based from our youtube history.
+- Search history on shopping websites.
+- Showing content based from your subscription in YouTube or followers in Facebook/Instagram.
+#+end_example
++ Based on [[https://en.wikipedia.org/wiki/Semantic_Web][Semantic Web]], the goal of it is to make _Internet data machine-readable_.
+#TODO: study about RDF and OWL
++ To enable the encoding of semantics with the data, technologies such as [[https://en.wikipedia.org/wiki/Resource_Description_Framework][Resource Description Framework]] (RDF) and [[https://en.wikipedia.org/wiki/Web_Ontology_Language][Web Ontology Language]] (OWL) are used.
+

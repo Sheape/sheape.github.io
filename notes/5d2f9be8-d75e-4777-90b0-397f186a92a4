@@ -1,0 +1,101 @@
+* Kinds of Design
+:PROPERTIES:
+:ID:       5d2f9be8-d75e-4777-90b0-397f186a92a4
+:END:
+** Experimental Design
+:PROPERTIES:
+:ID:       f86e7aaa-9ec7-42c0-a9c6-8a6d6e3f2a84
+:END:
+- quantitative research design that bases its research method on an *experiment.
+- in which a *test or examination* of a thing under a _manipulated or controlled environment_ is done to determine the validity of a thing.
+- involves two groups of subjects:
+  + _Experimental group_: in which the condition, treatment, or intervention is applied.
+  + _Control group_: not given any treatment.
+*** Quasi Experimental
+:PROPERTIES:
+:ID:       c2c8798b-98c3-4b77-9510-c1980761d31b
+:END:
+- also called /Causal comparative/.
+- has *cause and effect relationship* of variables.
+- _lesser validity_ due to the absence of random selection and assignment of subjects.
+- /Gay (1996)/ considers this design as _descriptive_, for it describes existing conditions.
+- more *structured manipulation* of _independent variables_.
+- often used when [[id:ef6a169e-6c76-4a46-81da-ccdb2bbd2129][true experiments]] are not feasible due to ethical or practical constraints.
+- the term /quasi/ means partly, partially, pseudo or almost.
+#+begin_example
+"The effects of unemployment on attitude towards following safety protocol in ECQ declared areas."
+#+end_example
+
+*** True Experimental
+:PROPERTIES:
+:ID:       ef6a169e-6c76-4a46-81da-ccdb2bbd2129
+:END:
+- a more robust design and has _more conclusive result_ than [[id:c2c8798b-98c3-4b77-9510-c1980761d31b][Quasi Experimental]].
+- the researcher is authorized to control the situation and manipulates the _independent variable_ to detect its influence on the _dependent variable_.
+- /Bryman (2008)/ In social science, many IVs cannot be manipulated.
+- it uses random assignment of subjects and experimental manipulation.
+#+begin_example
+"A comparison of the effects of various blended learning to the reading comprehension of elementary pupils."
+#+end_example
+
+** Non-experimental Design
+:PROPERTIES:
+:ID:       0bb3b196-fe3f-421d-b50f-60fd5fcdd133
+:END:
+- quantitative research design that is capable of *giving both of qualitative and quantitative data* but more qualitative data.
+- often used in _social sciences_.
+- it does not have the capability to control variables.
+- instead, it involves variables the way they naturally exist on Earth.
+*** Descriptive
+:PROPERTIES:
+:ID:       5e61020b-e835-48e2-90ff-7b397be8698d
+:END:
+- used to describe a particular *phenomenon* by observing it.
+- No _experimental manipulation_ and the research _does not start with a hypothesis_.
+- /Anastas (1999)/ this research answers the questions (/What/, /Where/, /When/, /Who/, and /How/). +but not why+.
+  - /Melegrito and Mendoza (2016, 23)/ These questions are linked to the *research questions*.
+  - It does not answer "why" because we dont consider the explanation why certain things happen.
+- the goal of this design is to only describe the person or the object of the study.
+#+begin_example
+Ex: "The determination of the different kinds of physical activities and how often high school students do it during the quarantine period."
+#+end_example
+
+*** Comparative
+:PROPERTIES:
+:ID:       e6bd7bfb-f223-4255-b5a0-17e9022bd902
+:END:
+- states the difference or similarities between or among people, things, objects, etc.
+*** Correlational
+:PROPERTIES:
+:ID:       4fe9aad4-e091-46ac-91b2-d6ab32eefdeb
+:END:
+- identifies the relationship between *variables*.
+- data is collected by *observation*.
+- it does not consider the cause and effect.
+- it is based on _pairs of measures_ or _scores_ of a single sample.
+- /Melegrito and Mendoza (2016, 24-25)/ indicates the strengths of a relationship between two variables.
+- No experimental manipulation.
+#+begin_example
+"The relationship of teenagers' sense of humor with positive psychological capacity."
+#+end_example
+
+*** Ex Post Facto
+:PROPERTIES:
+:ID:       c33fbf2f-372e-4da0-8b57-7d76032130e3
+:END:
+- investigate a possible relationship between *previous events* and _present conditions_.
+- The term "/Ex Post Facto/", means _after the fact_.
+- it looks at the *possible causes* of an already occuring phenomenon.
+- No experimental manipulation.
+#+begin_example
+"How does the parent's academic achievement affect the children obesity?"
+#+end_example
+
+*** Survey
+:PROPERTIES:
+:ID:       5b5c1ec2-e45a-436b-9aa2-e44c911094a2
+:END:
+- /Bryman (2016)/
+- intended to _acquire information_ from people.
+- aims to gather data concerning the predominance, distribution, and interrelations of the variables within a group.
+- aims to gather evidence of people's knowledge, opinions, attitudes, and values.

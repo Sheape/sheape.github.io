@@ -1,0 +1,8 @@
+** Rich User Experience
+:PROPERTIES:
+:ID:       fca6282d-cfe0-47f8-8529-a269a61cb2ef
+:END:
++ dynamic content that is responsive to user's input.
++ An example would be a website that shows _local content_. In the case of social networking sites, when logged on, your account is used to modify what you see in their website.
+- This also refers to websites having [[id:2f5c901a-6c8d-46bf-8b15-09f78ddc67ac][Dynamic pages]].
+

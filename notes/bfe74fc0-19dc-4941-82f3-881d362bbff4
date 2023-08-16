@@ -1,0 +1,12 @@
+** Compatibility
+:PROPERTIES:
+:ID:       bfe74fc0-19dc-4941-82f3-881d362bbff4
+:END:
++ HTML files and current web browsers could not support [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]].
+- Currently, modern web browsers have good compatibility with the [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Semantic Web]], which includes:
+#+begin_example
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+#+end_example
+

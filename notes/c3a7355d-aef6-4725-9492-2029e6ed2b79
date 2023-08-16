@@ -1,0 +1,29 @@
+* Systems, Functions and Platforms
+:PROPERTIES:
+:ID:       c3a7355d-aef6-4725-9492-2029e6ed2b79
+:END:
+** Online Systems
+:PROPERTIES:
+:ID:       4d9d5585-bceb-482a-a61b-28696cdb791c
+:END:
++ A system that is connected to the Internet.
++ An offline system would be a system that is disconnected from the Internet.
+** Online Functions
+:PROPERTIES:
+:ID:       40d093a9-9e7a-4bc0-9fd8-dfeb67b0c7d6
+:END:
++ include _email notifications_ from the server, the _updating of web blacklists_ (lists of undesirable websites), _updating of the list_ of file-sharing programs, and _remote access_ to Child.
+- pretty much anything that requires the access to Web or API calls.
+
+** Online Platforms
+:PROPERTIES:
+:ID:       9f6f5bec-eb28-463d-b4b4-bce6f1631fd2
+:END:
++ an _online marketplace_ that places one party in touch with another, such as buyers and sellers.
+*** Categories
+- Social Media
+- Search Engines
+- Communications Services
+- Payment Systems
+- Advertising Platforms
+- Creative Content Outlets

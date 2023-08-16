@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       d7af8139-37b9-4509-861c-25cfd9dc2524
+:END:
+#+title: SI/MKS
+
+* SI/MKS System of Unit Table
+:PROPERTIES:
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/International_System_of_Units
+:END:
+- Abbreviation: SI or International System of Units; MKS or metre, kilogram, second.
+** SI Base Units
+:PROPERTIES:
+:ID:       7637dea0-7e7b-4db6-b55e-fcdecf9d41f2
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/International_System_of_Units#Base_units
+:END:
+- These are the building blocks for units derived from them.
+|-------------------------------+----------+--------|
+| Quantity                      | Unit     | Symbol |
+|-------------------------------+----------+--------|
+| time (t)                      | second   | s      |
+| length (l)                    | metre    | m      |
+| mass (m)                      | kilogram | kg     |
+| electric current (I)          | ampere   | A      |
+| thermodynamic temperature (T) | kelvin   | K      |
+| amount of substance (n)       | mole     | mol    |
+| luminous intensity (I_v)      | candela  | cd     |
+|-------------------------------+----------+--------|
+
+** Common Units
+:PROPERTIES:
+:ID:       2e95e136-0a9a-4945-9748-866f4922fccb
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/Metric_system#Common_metric_systems
+:END:
+|--------------------------------------+------------------+--------|
+| Quantity                             | Unit             | Symbol |
+|--------------------------------------+------------------+--------|
+| distance (d), length (l), height (h) | metre            | m      |
+| mass (m)                             | kilogram         | kg     |
+| time (t)                             | second           | s      |
+| speed (/v/), velocity (v)              | metre/second     | m/s    |
+| acceleration (a)                     | (metre/second)^2 | m/s^2  |
+| force (F)                            | newton           | N      |
+| pressure (P or p)                    | pascal           | Pa     |
+| energy (E, Q, W)                     | joule            | J      |
+| power (P)                            | watt             | W      |
+| viscosity (μ)                        | Pascal * second  | Pa⋅s   |
+|--------------------------------------+------------------+--------|
+
+** Derived Units
+:PROPERTIES:
+:ID:       b54bbc1a-f049-436f-92ca-61842700a99d
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/International_System_of_Units#Derived_units
+:END:
+|----------------------------+----------------+--------|
+| Quantity                   | Unit           | Symbol |
+|----------------------------+----------------+--------|
+| plane angle                | radian         | rad    |
+| solid angle                | steradian      | sr     |
+| frequency                  | hertz          | Hz     |
+| force/weight               | newton         | N      |
+| pressure/stress            | pascal         | Pa     |
+| energy/work/heat           | joule          | J      |
+| power/radiant flux         | watt           | W      |
+| electric charge            | coulomb        | C      |
+| electric potential/voltage | volt           | V      |
+| capacitance                | farad          | F      |
+| resistance                 | ohm            | Ω      |
+| electrical conductance     | siemens        | S      |
+| magnetic flux              | weber          | Wb     |
+| magnetic flux density      | tesla          | T      |
+| inductance                 | henry          | H      |
+| temperature                | degree Celcius | °C     |
+| luminous flux              | lumen          | lm     |
+| illuminance                | lux            | lx     |
+| radionuclide               | becquerel      | Bq     |
+| absorbed dose              | gray           | Gy     |
+| equivalent dose            | sievert        | Sv     |
+| catalytic activity         | katal          | kat    |
+|----------------------------+----------------+--------|

@@ -1,0 +1,8 @@
+** Vastness
+:PROPERTIES:
+:ID:       75188ae8-1eb6-4653-8333-39d8da2b879c
+:END:
++ The [[id:c98fb78e-23fd-4870-8d2c-29dfac416b1a][World Wide Web (WWW)]] already contains billions of web pages.
+- The /SNOMED CT medical terminology ontology/ alone contains *370,000* class names.
+- Any automated system to categorize these will have to deal with _huge inputs_.
+

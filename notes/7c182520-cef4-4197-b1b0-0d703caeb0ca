@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       7c182520-cef4-4197-b1b0-0d703caeb0ca
+:ROAM_ALIASES: "Semantic Web"
+:END:
+#+title: Web 3.0
+
+This is an extension of [[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]] with a touch of /artificial intelligence/.
+This is completely a different topic with _Web 3.0_ with cryptocurrencies.
+* Definition
++ The [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Semantic Web]] is a movement led by the _World Wide Web Consortium_ (W3C).
++ AI is the key component in [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]] as it enables enhancement of providing content based on user's preference.
+* [[id:2ec598a0-bfee-4d70-ad26-a141ae1d4eba][W3C]]
+* Purpose
+:PROPERTIES:
+:ID:       13714b91-2a86-4fe4-a946-514e32bccc39
+:END:
++ The aim of [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]] is to have machines understand the user's preferences to be able _to deliver web content_ specifically targeting the user.
+#+begin_example
+- Video recommendation based from our youtube history.
+- Search history on shopping websites.
+- Showing content based from your subscription in YouTube or followers in Facebook/Instagram.
+#+end_example
++ Based on [[https://en.wikipedia.org/wiki/Semantic_Web][Semantic Web]], the goal of it is to make _Internet data machine-readable_.
+#TODO: study about RDF and OWL
++ To enable the encoding of semantics with the data, technologies such as [[https://en.wikipedia.org/wiki/Resource_Description_Framework][Resource Description Framework]] (RDF) and [[https://en.wikipedia.org/wiki/Web_Ontology_Language][Web Ontology Language]] (OWL) are used.
+
+* Problems
+:PROPERTIES:
+:ID:       6143c1cd-5ba3-4d5f-9384-de518aaea4a8
+:END:
+** Compatibility
+:PROPERTIES:
+:ID:       bfe74fc0-19dc-4941-82f3-881d362bbff4
+:END:
++ HTML files and current web browsers could not support [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]].
+- Currently, modern web browsers have good compatibility with the [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Semantic Web]], which includes:
+#+begin_example
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+#+end_example
+
+** Security
+:PROPERTIES:
+:ID:       50db4f2a-3d88-4a5e-8d6e-406764bb6697
+:END:
++ The user's security is also in question since the machine is saving his or her preferences.
+- An advanced implementation of the semantic web would make it much easier for governments to control the _viewing and creation_ of online information.
+#TODO: study about FOAF.
+- With the use of _Friend of a friend_ (FOAF) Files and _geolocation meta-data_. There would be *little anonymity* associated with the authorship of articles such as _personal blog_.
+
+** Vastness
+:PROPERTIES:
+:ID:       75188ae8-1eb6-4653-8333-39d8da2b879c
+:END:
++ The [[id:c98fb78e-23fd-4870-8d2c-29dfac416b1a][World Wide Web (WWW)]] already contains billions of web pages.
+- The /SNOMED CT medical terminology ontology/ alone contains *370,000* class names.
+- Any automated system to categorize these will have to deal with _huge inputs_.
+
+** Vaugeness
+:PROPERTIES:
+:ID:       576cc8ad-d97d-4f9c-90de-c1a86c397934
+:END:
++ Certain words are imprecise. The words "/old/" and "/small/" would depend on the user.
+- A psychology study tells us that when we have a lot of choices, we are more likely to be indecisive and this is /choice paralysis/.
+- [[https://en.wikipedia.org/wiki/Fuzzy_logic][Fuzzy logic]] is the *most common technique* for dealing with vagueness.
+
+** Logic
+:PROPERTIES:
+:ID:       a8df952e-e102-44a4-8e1f-e5825ef2714e
+:END:
++ Since machines use logic, there are certain *limitations* for a computer to be able to predict what the user is referring to at a given time.
+- However, recently AI is being used together with these websites to predict the user's next input based on billions of data in the AI.

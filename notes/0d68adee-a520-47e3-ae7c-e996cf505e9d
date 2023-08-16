@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0d68adee-a520-47e3-ae7c-e996cf505e9d
+:END:
+#+title: Web 1.0
+
+* Tim Berners-Lee
+:PROPERTIES:
+:ID:       af61f7e7-0bdb-4bab-ac3f-610e5719c200
+:END:
+- creator of the [[id:c98fb78e-23fd-4870-8d2c-29dfac416b1a][World Wide Web (WWW)]] and the Internet.
+* Definition
+- *Early 90s*
+- Most web pages were [[id:7479fcd7-7ac6-45ba-b6a4-5d0d59141eed][Static pages]] or the page is "as is".
+** Static pages
+:PROPERTIES:
+:ID:       7479fcd7-7ac6-45ba-b6a4-5d0d59141eed
+:END:
+- also called _stationary page_
+- In the sense that the page is "as is" and cannot be manipulated by the user. The content is also the same for all users.

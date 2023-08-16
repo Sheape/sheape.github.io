@@ -1,0 +1,20 @@
+* Accuracy vs Precision
+:PROPERTIES:
+:ID:       1cd91296-13c5-4b16-9018-1024d2328db4
+:END:
+** Accuracy
+:PROPERTIES:
+:ID:       0c594575-bf60-4def-bfef-d3f117647b13
+:ROAM_ALIASES: Accurate
+:END:
+- Closeness to true value.
+- This is when you know the exact value of what you're trying to measure and the result of the experiment is close to the exact value.
+- It describes how well the results agree with an accepted value of the quantity being measured.
+** Precision
+:PROPERTIES:
+:ID:       495389c6-d23e-4086-bf88-2a1e6227ed95
+:END:
+- Closeness of a set of data points to one another.
+- It refers to the degree of exactness to which a measurement can be reproduced.
+
+** [[id:73e518df-f6a9-4a25-b917-8bd623fbd2b4][Examples]]

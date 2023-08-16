@@ -1,0 +1,13 @@
+** Rules for determining
+:PROPERTIES:
+:ID:       45bcef56-6f25-41cb-a48b-b821f9f6254a
+:END:
+1. Non-zero digits are significant.
+   - 316 -> 3 significant figures.
+2. Zeroes in between other non-zero digits are significant.
+   - 6.003 -> 4 significant figures
+3. Leading zeroes are not significant.
+   -> 0.00035 = 2 significant figures
+4. Trailing decimal zeroes are significant.
+   - 35,000 -> 2 significant figures
+   - 0.035000 -> 5 significant figures

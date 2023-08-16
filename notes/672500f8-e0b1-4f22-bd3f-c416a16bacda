@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       672500f8-e0b1-4f22-bd3f-c416a16bacda
+:END:
+#+title: MTS
+
+* MTS System of Unit Table
+- Abbreviation: MTS or metre, tonne, second
+|--------------------------------------+------------------+--------|
+| Quantity                             | Unit             | Symbol |
+|--------------------------------------+------------------+--------|
+| distance (d), length (l), height (h) | metre            | m      |
+| mass (m)                             | tonne            | t      |
+| time (t)                             | second           | s      |
+| speed (/v/), velocity (v)              | metre/second     | m/s    |
+| acceleration (a)                     | (metre/second)^2 | m/s^2  |
+| force (F)                            | sthene           | sn     |
+| pressure (P or p)                    | pièze            | pz     |
+| energy (E, Q, W)                     | kilojoule        | kJ     |
+| power (P)                            | kilowatt         | kW     |
+| viscosity (μ)                        | pièze * second   | pz⋅s   |
+|--------------------------------------+------------------+--------|

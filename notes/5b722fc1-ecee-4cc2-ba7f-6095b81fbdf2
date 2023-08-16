@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5b722fc1-ecee-4cc2-ba7f-6095b81fbdf2
+:END:
+#+title: CGS
+
+* CGS System of Unit Table
+- Abbreviation: CGS or centimetre, gram, second.
+|--------------------------------------+-------------------+--------|
+| Quantity                             | Unit              | Symbol |
+|--------------------------------------+-------------------+--------|
+| distance (d), length (l), height (h) | centimetre        | cm     |
+| mass (m)                             | gram              | g      |
+| time (t)                             | second            | s      |
+| speed (/v/), velocity (v)              | centimetre/second | cm/s   |
+| acceleration (a)                     | gal               | Gal    |
+| force (F)                            | dyne              | dyn    |
+| pressure (P or p)                    | barye             | Ba     |
+| energy (E, Q, W)                     | erg               | erg    |
+| power (P)                            | erg/s             | erg/s  |
+| viscosity (μ)                        | poise             | P      |
+|--------------------------------------+-------------------+--------|

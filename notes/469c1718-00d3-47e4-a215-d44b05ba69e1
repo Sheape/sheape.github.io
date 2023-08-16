@@ -1,0 +1,19 @@
+**** Rules
+:PROPERTIES:
+:ID:       469c1718-00d3-47e4-a215-d44b05ba69e1
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/Metric_prefix#Rules
+:END:
+1. The prefix is combined with the unit of measurement.
+   - Ex: kilogram (kg), kilowatt (kW).
+2. All of the prefix symbols are made from upper- and lower-case Latin except for _micro_.
+3. SI units and unit symbols are never show in /italics/. The prefixes and symbols following that are always prefixed without any space or punctuation.
+   - Ex: 'ms' means millisecond
+   - 'm s' or 'm·s' means metre second
+4. Prefixes up to power of 1000 are preferred rather than let's say tens (deci-, deca-) and hundreds (cent-, hecto-).
+5. Prefixes cannot be used in combination on a single unit.
+   - Ex: (mg) milligram instead of microkilogram (μkg).
+6. The units are treated as multiplicative factors to values and the prefixes as 10x multiplier.
+7. A prefix symbol attached to a unit symbol is included when the unit is raised to a power.
+   - Ex: km^2 is km x km, not km x m
+   - or you look at this as (km)^2 and not k(m)^2
