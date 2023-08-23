@@ -1,0 +1,29 @@
+** Right Angle to each other
+:PROPERTIES:
+:ID:       f6f9f030-23a6-4f26-a998-bd68df364d9d
+:END:
+- You can use *Pythagorean Theorem* to find the resultant vector given the two
+  vectors which are perpendicular.
+*** Given
+$\vec{F}_1 = 6\ N,\ East$
+$\vec{F}_1 = 5\ N,\ North$
+[[file:analytical_right_angle.png]]
+**** Steps
+- Use the *pythagorean theorem* to solve for the magnitude.
+\begin{equation*}
+\begin{split}
+\vec{F}_R & = \sqrt{(\vec{F}_1)^2 + (\vec{F}_2)^2} \\
+& = \sqrt{6^2 + 5^2} \\
+&= 7.81 N
+\end{split}
+\end{equation*}
+- To find the angle, use $tan = \frac{opp}{adj}$
+\begin{equation*}
+\begin{split}
+tan\theta & = \frac{5N}{6N} \\
+tan\theta & = 0.8333 \\
+\theta & = 39.81 ^{\circ}
+\end{split}
+\end{equation*}
+- *Answer:* $\vec{F}_R = 7.81 N, 39.81 ^{\circ} N of E$
+

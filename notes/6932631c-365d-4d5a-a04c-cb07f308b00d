@@ -1,0 +1,12 @@
+* Displacement
+:PROPERTIES:
+:ID:       6932631c-365d-4d5a-a04c-cb07f308b00d
+:END:
+- *Displacement* /x/ refers to straight-line distance between it initial and final
+  positions, with direction toward the final position.
+  - it is a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+** Formula
+\begin{align*}
+& x = \iint \vec{a}\, dt\, dt \\
+& x = \int\vec{v}\, dt
+\end{align*}

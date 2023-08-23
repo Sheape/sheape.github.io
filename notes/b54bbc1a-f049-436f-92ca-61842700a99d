@@ -7,26 +7,26 @@
 |----------------------------+----------------+--------|
 | Quantity                   | Unit           | Symbol |
 |----------------------------+----------------+--------|
-| plane angle                | radian         | rad    |
-| solid angle                | steradian      | sr     |
-| frequency                  | hertz          | Hz     |
-| force/weight               | newton         | N      |
-| pressure/stress            | pascal         | Pa     |
-| energy/work/heat           | joule          | J      |
-| power/radiant flux         | watt           | W      |
-| electric charge            | coulomb        | C      |
-| electric potential/voltage | volt           | V      |
-| capacitance                | farad          | F      |
-| resistance                 | ohm            | Ω      |
-| electrical conductance     | siemens        | S      |
-| magnetic flux              | weber          | Wb     |
-| magnetic flux density      | tesla          | T      |
-| inductance                 | henry          | H      |
-| temperature                | degree Celcius | °C     |
-| luminous flux              | lumen          | lm     |
-| illuminance                | lux            | lx     |
-| radionuclide               | becquerel      | Bq     |
-| absorbed dose              | gray           | Gy     |
-| equivalent dose            | sievert        | Sv     |
-| catalytic activity         | katal          | kat    |
+| plane angle                | radian         | /rad/    |
+| solid angle                | steradian      | /sr/     |
+| frequency                  | hertz          | /Hz/     |
+| force/weight               | newton         | /N/      |
+| pressure/stress            | pascal         | /Pa/     |
+| energy/work/heat           | joule          | /J/      |
+| power/radiant flux         | watt           | /W/      |
+| electric charge            | coulomb        | /C/      |
+| electric potential/voltage | volt           | /V/      |
+| capacitance                | farad          | /F/      |
+| resistance                 | ohm            | /Ω/      |
+| electrical conductance     | siemens        | /S/      |
+| magnetic flux              | weber          | /Wb/     |
+| magnetic flux density      | tesla          | /T/      |
+| inductance                 | henry          | /H/      |
+| temperature                | degree Celcius | /°C/     |
+| luminous flux              | lumen          | /lm/     |
+| illuminance                | lux            | /lx/     |
+| radionuclide               | becquerel      | /Bq/     |
+| absorbed dose              | gray           | /Gy/     |
+| equivalent dose            | sievert        | /Sv/     |
+| catalytic activity         | katal          | /kat/    |
 |----------------------------+----------------+--------|

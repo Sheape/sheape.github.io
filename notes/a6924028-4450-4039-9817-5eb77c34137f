@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       a6924028-4450-4039-9817-5eb77c34137f
+:END:
+#+title: G1 Phase
+#+author: Paul Gerald D. Pare
+#+date: August 21, 2023
+
+* Definition
+- also called _First Gap_.
+- It is called the first gap because, little change is visible.
+- the cell is just growing at this stage, no DNA replication or anything.
+- The cell is accumulating the building blocks of *chromosomal DNA* and the
+  *associated proteins*.
+- The cell is also trying to build up *sufficient energy* to complete the task of
+  replicating each [[id:a3e8779a-2286-4862-ac3a-487fdf2a5bf8][chromosome]] in the [[id:436e0249-34bb-4171-95c3-c164d97d86eb][nucleus]].
+- Cell *increase* in _size_ and _volume_.
+* Production
+:PROPERTIES:
+:ID:       4b73490c-d479-491b-b882-c00af2210031
+:END:
+The cell is producing the following during this stage to prepare for S and M phase:
+ - Carbohydrates
+ - Lipids
+ - Proteins
+ - Enzymes
+* Checkpoints
+:PROPERTIES:
+:ID:       448e94f3-e8db-48a3-9224-8dea52a113d7
+:END:
+#+begin_quote
+"Ensure ordered progression through the cell cycle."
+(_Panagopoulos_ & _Altmevyer_, 2021)
+#+end_quote
+- also known as _restriction point_ in yeast.
+- This is the [[id:a6924028-4450-4039-9817-5eb77c34137f][G1 Phase]] and [[id:ff2e4fb1-e143-4abb-aaa4-01ffc755f9b6][S Phase]] checkpoint.
+- Cell commits to divide if nutrients and cell size is sufficient.
+- Damages in [[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] are also checked.
+** Stimulating Protein
+:PROPERTIES:
+:ID:       cb5d6623-e411-4544-a577-b7f1df53615e
+:END:
+- Growth factors
+- *Cyclin* and *Cyclin-dependent kinases* (CDK)
+  + Combined to function in putting _Phophaste_ in Proteins.
+** Inhibiting Protein
+:PROPERTIES:
+:ID:       837b8cbe-cb32-4e63-a161-e23aad89abc3
+:END:
+- *p53* protein
+- Retinoblastoma protein (Rb)

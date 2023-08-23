@@ -1,0 +1,30 @@
+** Potential Energy
+:PROPERTIES:
+:ID:       b4985054-6ddd-4176-bc88-5a87e98faca3
+:END:
+- Energy that could be used to do work.
+- Energy when the object is at _rest_.
+- an example of this is gravitational potential energy.
+- There is a relationship between [[id:e3d5c1cf-5133-4ecd-9727-4c26b3da05bb][force]] and potential energy, given the
+  following formulas:
+\begin{align*}
+& \displaystyle\int\vec{F}\, d\vec{r} \\
+& \vec{F}(x) = \frac{du}{dx}
+\end{align*}
+*** Gravitational Potential Energy
+:PROPERTIES:
+:ID:       73120613-4c91-4a12-950a-3f3e7e9a0b69
+:END:
+$PE_{ gravity} = mgh$
+- where $m$ is mass, $g$ is gravity, $h$ height of the object.
+*** Spring Potential Energy
+:PROPERTIES:
+:ID:       3bf4183a-4f3a-49d9-ac78-abdc857906cf
+:END:
+- also called _Elastic potential energy_.
+\begin{align*}
+& F_{spring} = kx \\
+& PE_{spring} = \frac{kx^2}{2}
+\end{align*}
+- where $k$ is the /spring constant/ and $x$ is the distance.
+- This formula is known as *Hooke's Law* after [[id:238f9cc5-4c42-47eb-8329-19ddb5873633][Robert Hooke]].

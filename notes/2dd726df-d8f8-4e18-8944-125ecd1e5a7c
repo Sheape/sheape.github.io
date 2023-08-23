@@ -1,0 +1,59 @@
+* General Projection
+:PROPERTIES:
+:ID:       2dd726df-d8f8-4e18-8944-125ecd1e5a7c
+:END:
+** Displacement Calculation
+:PROPERTIES:
+:ID:       1bb2539d-87d6-4722-b2c9-63213257c426
+:END:
+- The components of displacement at time $t$ are:
+\begin{equation*}
+\begin{split}
+d_x = v_{0x}t + \frac{1}{2}a_xt^2 \\
+d_y = v_{0y}t + \frac{1}{2}a_yt^2
+\end{split}
+\end{equation*}
+- For projectiles:
+\begin{equation*}
+\begin{split}
+a_x & = 0; \\
+a_y & = g; \\
+v_{0y} & = v_0 sin\theta; \\
+v_{0x} & = v_0 cos\theta
+\end{split}
+\end{equation*}
+- displacement components x and y for projectiles are:
+\begin{equation*}
+\begin{split}
+d_x & = v_{0x}t \\
+d_y & = v_{0y}t + \frac{1}{2}gt^2
+\end{split}
+\end{equation*}
+** Velocity Calculation
+:PROPERTIES:
+:ID:       ae2f3704-a2ed-4eef-b04e-a21baecc4427
+:END:
+- The components of velocity at time $t$ are:
+\begin{equation*}
+\begin{split}
+v_x = v_{0x} + a_xt \\
+v_y = v_{0x} + a_yt
+\end{split}
+\end{equation*}
+- For projectiles:
+\begin{equation*}
+\begin{split}
+a_x & = 0; \\
+a_y & = g; \\
+v_{0y} & = v_0 sin\theta; \\
+v_{0x} & = v_0 cos\theta
+\end{split}
+\end{equation*}
+- displacement components x and y for projectiles are:
+\begin{equation*}
+\begin{split}
+v_x & = v_{0x}\ constant \\
+v_y & = v_{0y} + gt
+\end{split}
+\end{equation*}
+

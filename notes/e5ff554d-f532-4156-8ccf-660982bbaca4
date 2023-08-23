@@ -1,0 +1,17 @@
+* Power
+:PROPERTIES:
+:ID:       e5ff554d-f532-4156-8ccf-660982bbaca4
+:END:
+\begin{align*}
+Average\ Power = \frac{Work}{time}
+\end{align*}
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of *Power* is /Watts (W)/ which is just /Joule/second/.
+- The power outputted by a powered object, such as an engine or muscles, is sometimes called the *motive power*.
+** Formula
+- Deriviation:
+\begin{align*}
+P_{ave} &= \frac{W}{t} \\
+&= \frac{Fd}{t} \\
+&= F\frac{d}{t} \\
+&= Fv_{ave}
+\end{align*}

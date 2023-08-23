@@ -1,0 +1,131 @@
+:PROPERTIES:
+:ID:       e639f6e4-b0fc-4022-8534-267899e59278
+:END:
+#+title: Analytical Method
+#+author: Paul Gerald D. Pare
+#+date: August 16, 2023
+
+* Definition
+- The *analytical method* of adding vectors is divided into two: sine law and
+  cosine law, and the component method.
+* Adding Two Vectors
+** Same Direction
+:PROPERTIES:
+:ID:       43aedb2a-5959-436c-87e5-a529a030d6ae
+:END:
+- The magnitude of the resultant vector is given by the _arithmetic sum_ of the
+  magnitudes of the individual vectors. The direction follows that of the given
+  vectors.
+*** Given
+$\vec{A} = 20\ m/s,\ East$
+$\vec{B} = 40\ m/s,\ East$
+[[file:analytical_method_sum.png]]
+$20\ m/s,\ East + 40\ m/s,\ East \rightarrow \vec{R} = 60\ m/s East$
+
+** Opposite Direction
+:PROPERTIES:
+:ID:       a5cfe180-c82a-449a-9203-dc15ef3a564c
+:END:
+- The magnitude of the resultant vector is given by the _arithmetic difference_ of
+  the magnitudes of the individual vectors. The direction follows that of the
+  vector with *bigger magnitude*.
+*** Given
+$\vec{A} = 15\ m,\ North$
+$\vec{B} = 28\ m,\ South$
+[[file:analytical_method_opposite.png]]
+$15\ m/s,\ North + 28\ m/s,\ South \rightarrow \vec{R} = 13\ m\ South$
+
+** Right Angle to each other
+:PROPERTIES:
+:ID:       f6f9f030-23a6-4f26-a998-bd68df364d9d
+:END:
+- You can use *Pythagorean Theorem* to find the resultant vector given the two
+  vectors which are perpendicular.
+*** Given
+$\vec{F}_1 = 6\ N,\ East$
+$\vec{F}_1 = 5\ N,\ North$
+[[file:analytical_right_angle.png]]
+**** Steps
+- Use the *pythagorean theorem* to solve for the magnitude.
+\begin{equation*}
+\begin{split}
+\vec{F}_R & = \sqrt{(\vec{F}_1)^2 + (\vec{F}_2)^2} \\
+& = \sqrt{6^2 + 5^2} \\
+&= 7.81 N
+\end{split}
+\end{equation*}
+- To find the angle, use $tan = \frac{opp}{adj}$
+\begin{equation*}
+\begin{split}
+tan\theta & = \frac{5N}{6N} \\
+tan\theta & = 0.8333 \\
+\theta & = 39.81 ^{\circ}
+\end{split}
+\end{equation*}
+- *Answer:* $\vec{F}_R = 7.81 N, 39.81 ^{\circ} N of E$
+
+** Cosine Law
+:PROPERTIES:
+:ID:       55f2d7bc-c929-42a9-9349-cfa5b6ccbeb1
+:END:
+- use it when you are given *2 sides and one angle* in a triangle. Obviously,
+  these triangles in this case is about vectors.
+- Note: The range of $cos^{-1}(x)\ |\ R = \{ 0, \pi \}$ so this is highly
+  recommended to use instead of sine law.
+Formulas:
+\begin{align*}
+a^2 & = b^2 + c^2 - 2bc\ cosA \\
+b^2 & = a^2 + c^2 - 2ac\ cosB \\
+c^2 & = a^2 + b^2 - 2ab\ cosC
+\end{align*}
+** Sine Law
+:PROPERTIES:
+:ID:       4c8b8d54-2f24-41d6-8008-8d6ef5e2a573
+:END:
+- use it when you are given pretty much anything but be careful when given 3
+  sides and one angle.
+- Note: The range of $sin^{-1}(x)\ |\ R = \{ -\frac{\pi}{2}, \frac{\pi}{2} \}$ so
+  any angle larger than $90^{\circ}$ or $\frac{\pi}{2}$, we cannot use sine law for this.
+  - If you know that the angle is larger than $90^{\circ}$, then subtract the result
+    to $180^{\circ}$.
+Formulas:
+\begin{equation*}
+\frac{a}{sinA} = \frac{b}{sinB} = \frac{c}{sinC}
+\end{equation*}
+** Vector Resolution
+:PROPERTIES:
+:ID:       1ca7ea2c-756d-4b73-9841-6e7a36e3d92c
+:END:
+- Vector Resolution. A single vector is usually divided into _two vectors_ that
+  are perpendicular to each other. These two vectors are called *components* and
+  the process of splitting the vector into its components is called resolution.
+- V is represented as $V_x$ and $V_y$ respectively.
+  - $V_x = V cos\theta$
+  - $V_y = V sin\theta$
+  - where \theta is the angle that V makes with the *x-axis*.
+*** Component Method
+:PROPERTIES:
+:ID:       479fc1d7-7d66-4bc6-bd42-d1c57194256e
+:END:
+- It is generally used when more than two vectors are to be
+  added.
+**** Steps
+1. Resolve the given vectors into its horizontal and vertical components.
+|----------+---+---|
+| Quadrant | x | y |
+|----------+---+---|
+|        1 | + | + |
+|        2 | - | + |
+|        3 | - | - |
+|        4 | + | - |
+|----------+---+---|
+2. Get the sum of the x-components and y-components which are also the x and y
+   components for the _resultant_.
+3. Use the *Pythagorean theorem* to find the magnitude of the resultant vector.
+   $R^2=R_x^2 + R_y^2$
+4. Use the signs of $R_x$ and $R_y$ to determine the quadrant.
+5. Find the *reference angle* by taking the _inverse tangent_ of the absolute value
+   of the *y-component* divided by the *x-component*.
+   \begin{equation*}
+   \theta = tan^{-1}|\frac{R_y}{R_x}|
+   \end{equation*}

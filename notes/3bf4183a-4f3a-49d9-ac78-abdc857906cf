@@ -1,0 +1,11 @@
+*** Spring Potential Energy
+:PROPERTIES:
+:ID:       3bf4183a-4f3a-49d9-ac78-abdc857906cf
+:END:
+- also called _Elastic potential energy_.
+\begin{align*}
+& F_{spring} = kx \\
+& PE_{spring} = \frac{kx^2}{2}
+\end{align*}
+- where $k$ is the /spring constant/ and $x$ is the distance.
+- This formula is known as *Hooke's Law* after [[id:238f9cc5-4c42-47eb-8329-19ddb5873633][Robert Hooke]].

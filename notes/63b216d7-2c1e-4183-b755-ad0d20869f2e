@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       63b216d7-2c1e-4183-b755-ad0d20869f2e
+:END:
+#+title: Free Fall
+#+author: Paul Gerald D. Pare
+#+date: August 17, 2023
+
+* Definition
+- *Air resistance* is neglected and the acceleration is _constant_ due to gravity.
+- The acceleration of a freely falling body is called *acceleration due to gravity*.
+  - Denote by letter $g$ which has a value of $-9.8 m/s^2$ or $32 ft/s^2$
+    downward at the surface of the earth.
+  - Every object experience this so this is also the _most common_ type of force.
+- [[id:e2d2f809-64b0-402f-a045-b67ac2f9dc7c][Kinematics Equations]] can be used to analyze free fall.
+- We may treat free fall as [[id:d0f008b3-2d59-40fb-b5a8-12b038177dc0][Uniformly Accelerated Motion]].
+- Since motion is along vertical the vertical direction.
+  - we may use $d_y$ instead of $d_x$ and $g$ instead of $a$.
+* Gravitational Acceleration
+:PROPERTIES:
+:ID:       5a91194c-534f-4f08-9c84-ebc5dd25ff7e
+:END:
+- In a vacuum, all objects fall with _same acceleration_.
+- Equations for constant acceleration apply as usual.
+- Near the Earth's surface.
+* Sign conventions
+:PROPERTIES:
+:ID:       a00c87f2-1ee2-488a-8926-611593e25aa9
+:END:
+a. Distances _above_ the origin are *positive*. _Below_ the origin are *negative*.
+b. _Upward_ velocities are *positive*, _downward_ velocities are *negative*.
+c. $g$ is _always_ *negative*. origin is point of release.
+
+* Time Symmetry
+- The time required for the object to _reach maximum height_ equals the _time for_
+  _it to return_ from its maximum height to its starting point.
+* Speed Symmetry
+- Shows that at any displacement above the point of release, the speed of the
+  body during upward trip equals the speed during the downward trip.

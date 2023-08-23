@@ -8,12 +8,12 @@
 |-------------------------------+----------+--------|
 | Quantity                      | Unit     | Symbol |
 |-------------------------------+----------+--------|
-| time (t)                      | second   | s      |
-| length (l)                    | metre    | m      |
-| mass (m)                      | kilogram | kg     |
-| electric current (I)          | ampere   | A      |
-| thermodynamic temperature (T) | kelvin   | K      |
-| amount of substance (n)       | mole     | mol    |
-| luminous intensity (I_v)      | candela  | cd     |
+| time (/t/)                      | second   | /s/      |
+| length (/l/)                    | metre    | /m/      |
+| mass (/m/)                      | kilogram | /kg/     |
+| electric current (/I/)          | ampere   | /A/      |
+| thermodynamic temperature (/T/) | kelvin   | /K/      |
+| amount of substance (/n/)       | mole     | /mol/    |
+| luminous intensity ($I_v$)  | candela  | /cd/     |
 |-------------------------------+----------+--------|
 

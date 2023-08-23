@@ -2,6 +2,9 @@
 :ID:       2ca478e5-a272-4887-ab3d-90809dd64c68
 :END:
 #+title: Methods of Philosophizing
+#+author: Paul Gerald D. Pare
+#+date: August 07, 2023
+#+GIT_COMMIT_MSG: Q1W2(Philosophy): Methods of Philosophizing
 
 * Truth
 :PROPERTIES:
@@ -10,6 +13,7 @@
 #+begin_quote
 "It is through knowing that we are able to determine what is true".
 #+end_quote
+
 ** Knowledge
 :PROPERTIES:
 :ID:       a2205fcb-eb1e-461e-b97c-4b7a3d795b50

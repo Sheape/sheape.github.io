@@ -1,0 +1,12 @@
+** Centripal Acceleration
+:PROPERTIES:
+:ID:       0ce05a96-92a2-4833-8bca-ec230da956f4
+:END:
+\begin{equation*}
+\begin{split}
+a_c & = \frac{v^2}{R}; \\
+F_c & = ma_c = \frac{mv^2}{R}
+\end{split}
+\end{equation*}
+- where $m$ is mass of the object, $v$ is velocity, and $R$ is radius of the circular path.
+- acceleration directed toward the center of circular path.

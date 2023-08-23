@@ -2,6 +2,8 @@
 :ID:       73e518df-f6a9-4a25-b917-8bd623fbd2b4
 :END:
 #+title: Examples
+#+author: Paul Gerald D. Pare
+#+date: August 01, 2023
 
 * Accurate and Precise
 - Indicates a good measurement.
@@ -13,7 +15,7 @@
 | 0.998 kg |
 | 1.003 kg |
 |----------|
-[[file:assets/physics/q1/w1/accuracy_vs_precision_example_1.png]]
+[[file:accuracy_vs_precision_example_1.png]]
 * Accurate but imprecise
 - It could be human error.
 |----------|
@@ -24,7 +26,7 @@
 | 0.881 kg |
 | 0.917 kg |
 |----------|
-[[file:assets/physics/q1/w1/accuracy_vs_precision_example_2.png]]
+[[file:accuracy_vs_precision_example_2.png]]
 * Inaccurate but precise
 - It could mean that the instrument has improper calibration.
 |----------|
@@ -35,7 +37,7 @@
 | 2.822 kg |
 | 2.819 kg |
 |----------|
-[[file:assets/physics/q1/w1/accuracy_vs_precision_example_3.png]]
+[[file:accuracy_vs_precision_example_3.png]]
 * Inaccurate and imprecise
 - uhh.. what the hell happened bro..
 |----------|
@@ -46,4 +48,4 @@
 | 2.141 kg |
 | 0.805 kg |
 |----------|
-[[file:assets/physics/q1/w1/accuracy_vs_precision_example_4.png]]
+[[file:accuracy_vs_precision_example_4.png]]

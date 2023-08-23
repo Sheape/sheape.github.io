@@ -2,6 +2,47 @@
 :ID:       aa29ef16-ec9b-4d04-9c5a-f36275ddf320
 :END:
 #+title: Prokaryotic cells
+#+author: Paul Gerald D. Pare
+#+date: August 03, 2023
 
 * Definition
+[[file:prokaryotic_cells.png]]
+- "/Pro/" - before
+- "/karyotic/" - nucleus
+- NO *nucleus*
+- NO *membrane bound* organelles (just [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][ribosome]])
+- ALL are _unicellular_
+- Smaller than eukaryotic cells
+- Forerunner to eukaryotic cells (smaller and more simple)
+- [[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] – single strand and circular
+- Ex: ALL Bacteria
 * [[id:0b7ad370-15f6-4cc4-9d1a-0af6ba94d760][Structure]]
+* Shapes
+:PROPERTIES:
+:ID:       b81ed29d-72f6-4bc3-8ef9-0a3cdb53904d
+:END:
+** Cocci
+:PROPERTIES:
+:ID:       92088ff6-6b98-435c-a640-4fb21101d506
+:END:
+[[file:cocci.png]]
+- spherical (round)
+** Bacillus
+:PROPERTIES:
+:ID:       4e714633-9029-4696-839d-5fbd110ddb1d
+:END:
+[[file:bacillus.png]]
+- rod shaped
+** Spirilla
+:PROPERTIES:
+:ID:       a205dc3d-6886-4c1d-b43f-a7d7d7a02dd6
+:END:
+[[file:spirilla.png]]
+- helical (spiral)
+** Vibrio
+:PROPERTIES:
+:ID:       1df1a778-d502-465d-92fb-64e475390eef
+:END:
+[[file:vibrio.png]]
+- comma-shaped
+

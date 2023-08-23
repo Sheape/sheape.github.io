@@ -1,0 +1,11 @@
+** Tangential Acceleration
+:PROPERTIES:
+:ID:       903c6e05-a9af-4669-a9a4-e5ac0210663b
+:END:
+- The *rate of change* of the tangential velocity of a particular in a circular
+  orbit.
+Formula (tho its not in the LAS):
+$a_t = ar$
+- $a_t$ is the /tangential acceleration/, $r$ is the radius of the circular path,
+  and $a$ is the _angular acceleration_.
+- always directs towards the /tangent/ to the path of the body.

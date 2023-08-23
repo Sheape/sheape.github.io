@@ -2,6 +2,8 @@
 :ID:       d7af8139-37b9-4509-861c-25cfd9dc2524
 :END:
 #+title: SI/MKS
+#+author: Paul Gerald D. Pare
+#+date: August 01, 2023
 
 * SI/MKS System of Unit Table
 :PROPERTIES:
@@ -19,13 +21,13 @@
 |-------------------------------+----------+--------|
 | Quantity                      | Unit     | Symbol |
 |-------------------------------+----------+--------|
-| time (t)                      | second   | s      |
-| length (l)                    | metre    | m      |
-| mass (m)                      | kilogram | kg     |
-| electric current (I)          | ampere   | A      |
-| thermodynamic temperature (T) | kelvin   | K      |
-| amount of substance (n)       | mole     | mol    |
-| luminous intensity (I_v)      | candela  | cd     |
+| time (/t/)                      | second   | /s/      |
+| length (/l/)                    | metre    | /m/      |
+| mass (/m/)                      | kilogram | /kg/     |
+| electric current (/I/)          | ampere   | /A/      |
+| thermodynamic temperature (/T/) | kelvin   | /K/      |
+| amount of substance (/n/)       | mole     | /mol/    |
+| luminous intensity ($I_v$)  | candela  | /cd/     |
 |-------------------------------+----------+--------|
 
 ** Common Units
@@ -33,20 +35,21 @@
 :ID:       2e95e136-0a9a-4945-9748-866f4922fccb
 :SOURCE:   Wikipedia
 :SOURCE_LINK: https://en.wikipedia.org/wiki/Metric_system#Common_metric_systems
+:ROAM_ALIASES: "SI Unit"
 :END:
 |--------------------------------------+------------------+--------|
 | Quantity                             | Unit             | Symbol |
 |--------------------------------------+------------------+--------|
-| distance (d), length (l), height (h) | metre            | m      |
-| mass (m)                             | kilogram         | kg     |
-| time (t)                             | second           | s      |
-| speed (/v/), velocity (v)              | metre/second     | m/s    |
-| acceleration (a)                     | (metre/second)^2 | m/s^2  |
-| force (F)                            | newton           | N      |
-| pressure (P or p)                    | pascal           | Pa     |
-| energy (E, Q, W)                     | joule            | J      |
-| power (P)                            | watt             | W      |
-| viscosity (μ)                        | Pascal * second  | Pa⋅s   |
+| distance (/d/), length (/l/), height (/h/) | metre            | /m/      |
+| mass (/m/)                             | kilogram         | /kg/     |
+| time (/t/)                             | second           | /s/    |
+| speed (/v/), velocity (/v/)              | metre/second     | /m/s/  |
+| acceleration (/a/)                     | (metre/second)^2 | $m/s^2$ |
+| force (/F/)                            | newton           | /N/      |
+| pressure (/P/ or /p/)                    | pascal           | /Pa/     |
+| energy (/E/, /Q/, /W/)                     | joule            | /J/      |
+| power (/P/)                            | watt             | /W/      |
+| viscosity (/μ/)                        | Pascal * second  | /Pa⋅s/   |
 |--------------------------------------+------------------+--------|
 
 ** Derived Units
@@ -58,26 +61,26 @@
 |----------------------------+----------------+--------|
 | Quantity                   | Unit           | Symbol |
 |----------------------------+----------------+--------|
-| plane angle                | radian         | rad    |
-| solid angle                | steradian      | sr     |
-| frequency                  | hertz          | Hz     |
-| force/weight               | newton         | N      |
-| pressure/stress            | pascal         | Pa     |
-| energy/work/heat           | joule          | J      |
-| power/radiant flux         | watt           | W      |
-| electric charge            | coulomb        | C      |
-| electric potential/voltage | volt           | V      |
-| capacitance                | farad          | F      |
-| resistance                 | ohm            | Ω      |
-| electrical conductance     | siemens        | S      |
-| magnetic flux              | weber          | Wb     |
-| magnetic flux density      | tesla          | T      |
-| inductance                 | henry          | H      |
-| temperature                | degree Celcius | °C     |
-| luminous flux              | lumen          | lm     |
-| illuminance                | lux            | lx     |
-| radionuclide               | becquerel      | Bq     |
-| absorbed dose              | gray           | Gy     |
-| equivalent dose            | sievert        | Sv     |
-| catalytic activity         | katal          | kat    |
+| plane angle                | radian         | /rad/    |
+| solid angle                | steradian      | /sr/     |
+| frequency                  | hertz          | /Hz/     |
+| force/weight               | newton         | /N/      |
+| pressure/stress            | pascal         | /Pa/     |
+| energy/work/heat           | joule          | /J/      |
+| power/radiant flux         | watt           | /W/      |
+| electric charge            | coulomb        | /C/      |
+| electric potential/voltage | volt           | /V/      |
+| capacitance                | farad          | /F/      |
+| resistance                 | ohm            | /Ω/      |
+| electrical conductance     | siemens        | /S/      |
+| magnetic flux              | weber          | /Wb/     |
+| magnetic flux density      | tesla          | /T/      |
+| inductance                 | henry          | /H/      |
+| temperature                | degree Celcius | /°C/     |
+| luminous flux              | lumen          | /lm/     |
+| illuminance                | lux            | /lx/     |
+| radionuclide               | becquerel      | /Bq/     |
+| absorbed dose              | gray           | /Gy/     |
+| equivalent dose            | sievert        | /Sv/     |
+| catalytic activity         | katal          | /kat/    |
 |----------------------------+----------------+--------|

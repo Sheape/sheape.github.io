@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       a3e8779a-2286-4862-ac3a-487fdf2a5bf8
+:END:
+#+title: Chromosomes
+#+author: Paul Gerald D. Pare
+#+date: August 21, 2023
+
+* Definition
+[[file:chromosomes.png]]
+- Long threads of [[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] associated with protein.
+- Its main function is to store hereditary information.
+* Chromatids
+:PROPERTIES:
+:ID:       67443bd8-8026-455d-b600-18e05fdb7aa5
+:END:
+- It is a single piece of chromosome attached to the [[id:cc030a92-73bd-432a-958b-6e0ed1b2b030][centromere]].
+- They are in-pair with another chromatid called *sister chromatid*.
+* Centromere
+:PROPERTIES:
+:ID:       cc030a92-73bd-432a-958b-6e0ed1b2b030
+:END:
+- It is the center part of a chromosome and it connects the pair [[id:67443bd8-8026-455d-b600-18e05fdb7aa5][chromatids]].
+* Centrosome
+:PROPERTIES:
+:ID:       7adb4169-42f3-421f-9ade-1a22afd8ef8e
+:END:
+- It is an organelle that serves as the _main microtubule organizing center_
+  (MTOC) of the animal cell, as well as a regulator in [[id:4b5bda5a-e1f4-47f6-8f48-26696ad354ec][cell-cycle]] progression.
+- made up of 2 [[id:3ae8e149-4f42-47e5-a17b-6feac8d7fdd3][centrioles]].
+- it is contained in a matrix similar to a [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][cytoplasm]].
+- point of origin of the [[id:63fd14ba-debc-4668-a3a6-710aa16a3019][mitotic spindle]].
+* Centrioles
+:PROPERTIES:
+:ID:       3ae8e149-4f42-47e5-a17b-6feac8d7fdd3
+:END:
+- Pairs of *microtubular structures*.
+- They are _right angles_ to each other.
+- move towards the poles (opposite ends) of the nucleus
+** Functions
+:PROPERTIES:
+:ID:       b8c52986-ec50-4c89-8b90-b8fa4e46023c
+:END:
+- Play a role in cell division
+- involved in the organization of the [[id:63fd14ba-debc-4668-a3a6-710aa16a3019][mototic spindle]].
+- completion of cytokinesis
+** Mitotic Spindle
+:PROPERTIES:
+:ID:       63fd14ba-debc-4668-a3a6-710aa16a3019
+:END:
+- groups of threads attached to the centrioles.

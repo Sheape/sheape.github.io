@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ID:       8339f681-6e89-4f72-bea4-81e05b9daed0
+:END:
+#+title: Energy
+#+author: Paul Gerald D. Pare
+#+date: August 18, 2023
+
+* Definition
+- the capacity to do work.
+- it is measured in /Joules (J)/ similar to work.
+- merely describes a property of system that can be transferred but cannot be
+  created nor destroyed.
+* Work-Energy Theorem
+:PROPERTIES:
+:ID:       eadc8749-5fa9-43f7-afd4-6d072049cacc
+:END:
+Formula: $W_{net} = \Delta KE$
+- when work is done $W_{net}$ in an object, there will be a _change in kinetic
+  energy_ $KE$.
+- An object in motion can do work on another object.
+* Types
+:PROPERTIES:
+:ID:       bf0fafe8-87c1-4498-9b56-39f248c27f45
+:END:
+** Kinetic Energy
+:PROPERTIES:
+:ID:       f3023ae3-58b0-4121-bcff-798d46b6d29a
+:END:
+- the energy while an object is in motion.
+\begin{align*}
+E_k = \frac{mv^2}{2}
+\end{align*}
+** Potential Energy
+:PROPERTIES:
+:ID:       b4985054-6ddd-4176-bc88-5a87e98faca3
+:END:
+- Energy that could be used to do work.
+- Energy when the object is at _rest_.
+- an example of this is gravitational potential energy.
+- There is a relationship between [[id:e3d5c1cf-5133-4ecd-9727-4c26b3da05bb][force]] and potential energy, given the
+  following formulas:
+\begin{align*}
+& \displaystyle\int\vec{F}\, d\vec{r} \\
+& \vec{F}(x) = \frac{du}{dx}
+\end{align*}
+*** Gravitational Potential Energy
+:PROPERTIES:
+:ID:       73120613-4c91-4a12-950a-3f3e7e9a0b69
+:END:
+$PE_{ gravity} = mgh$
+- where $m$ is mass, $g$ is gravity, $h$ height of the object.
+*** Spring Potential Energy
+:PROPERTIES:
+:ID:       3bf4183a-4f3a-49d9-ac78-abdc857906cf
+:END:
+- also called _Elastic potential energy_.
+\begin{align*}
+& F_{spring} = kx \\
+& PE_{spring} = \frac{kx^2}{2}
+\end{align*}
+- where $k$ is the /spring constant/ and $x$ is the distance.
+- This formula is known as *Hooke's Law* after [[id:238f9cc5-4c42-47eb-8329-19ddb5873633][Robert Hooke]].
+* Non-conservative Energy
+:PROPERTIES:
+:ID:       911e1fa9-8d19-46c8-9b3c-56aababf2873
+:END:
+- A system that _loses_ energy.
+- Like when normal force loses energy when friction stops it.
+* Conservative Energy
+:PROPERTIES:
+:ID:       b3ea15aa-0821-42e3-9694-5110b1d92f07
+:END:
+- A system that _doesn't lose_ energy.
+- An example of this is a *pendulum*.
+  - because the kinetic energy and potential energy is just converting between
+    each other.

@@ -1,0 +1,13 @@
+* Acceleration
+:PROPERTIES:
+:ID:       bbe2b7b4-6392-441c-b597-f38a51d66d7d
+:END:
+- *Acceleration* is change in [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] with respect to time.
+- It is also a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of acceleration is _meter per second per second_, m/s/s or $m/s^2$
+** Formula
+\begin{align*}
+& a = \frac{d}{dt}(\vec{v}) \\
+& a = \frac{d^2x}{dt^2} \\
+& A = \frac{velocity}{time}
+\end{align*}

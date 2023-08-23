@@ -1,0 +1,37 @@
+** Vector Resolution
+:PROPERTIES:
+:ID:       1ca7ea2c-756d-4b73-9841-6e7a36e3d92c
+:END:
+- Vector Resolution. A single vector is usually divided into _two vectors_ that
+  are perpendicular to each other. These two vectors are called *components* and
+  the process of splitting the vector into its components is called resolution.
+- V is represented as $V_x$ and $V_y$ respectively.
+  - $V_x = V cos\theta$
+  - $V_y = V sin\theta$
+  - where \theta is the angle that V makes with the *x-axis*.
+*** Component Method
+:PROPERTIES:
+:ID:       479fc1d7-7d66-4bc6-bd42-d1c57194256e
+:END:
+- It is generally used when more than two vectors are to be
+  added.
+**** Steps
+1. Resolve the given vectors into its horizontal and vertical components.
+|----------+---+---|
+| Quadrant | x | y |
+|----------+---+---|
+|        1 | + | + |
+|        2 | - | + |
+|        3 | - | - |
+|        4 | + | - |
+|----------+---+---|
+2. Get the sum of the x-components and y-components which are also the x and y
+   components for the _resultant_.
+3. Use the *Pythagorean theorem* to find the magnitude of the resultant vector.
+   $R^2=R_x^2 + R_y^2$
+4. Use the signs of $R_x$ and $R_y$ to determine the quadrant.
+5. Find the *reference angle* by taking the _inverse tangent_ of the absolute value
+   of the *y-component* divided by the *x-component*.
+   \begin{equation*}
+   \theta = tan^{-1}|\frac{R_y}{R_x}|
+   \end{equation*}

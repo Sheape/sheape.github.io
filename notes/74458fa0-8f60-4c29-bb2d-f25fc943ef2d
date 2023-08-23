@@ -1,0 +1,43 @@
+* Uniform Circular Motion
+:PROPERTIES:
+:ID:       74458fa0-8f60-4c29-bb2d-f25fc943ef2d
+:END:
+- *Uniform circular motion* is motion along a circular path in which there is no
+  change in speed, only a change in direction.
+- Velocity _tangent_ to path.
+- Force _toward_ center.
+** Centripal Force
+:PROPERTIES:
+:ID:       22a514b5-2bea-4b68-ab61-c0f19346c05f
+:END:
+- It is the force that keeps the object in circular motion.
+** Centripal Acceleration
+:PROPERTIES:
+:ID:       0ce05a96-92a2-4833-8bca-ec230da956f4
+:END:
+\begin{equation*}
+\begin{split}
+a_c & = \frac{v^2}{R}; \\
+F_c & = ma_c = \frac{mv^2}{R}
+\end{split}
+\end{equation*}
+- where $m$ is mass of the object, $v$ is velocity, and $R$ is radius of the circular path.
+- acceleration directed toward the center of circular path.
+** Tangential Velocity
+:PROPERTIES:
+:ID:       3ca591c9-6965-4d36-b1ec-95cb2b7885ea
+:END:
+- when an object moves in a circular path at a distance $r$ from the center,
+  then the body's velocity is directed /tangentially/ at any instant.
+- the _linear velocity_ is its /tangential velocity/ at any instant.
+** Tangential Acceleration
+:PROPERTIES:
+:ID:       903c6e05-a9af-4669-a9a4-e5ac0210663b
+:END:
+- The *rate of change* of the tangential velocity of a particular in a circular
+  orbit.
+Formula (tho its not in the LAS):
+$a_t = ar$
+- $a_t$ is the /tangential acceleration/, $r$ is the radius of the circular path,
+  and $a$ is the _angular acceleration_.
+- always directs towards the /tangent/ to the path of the body.

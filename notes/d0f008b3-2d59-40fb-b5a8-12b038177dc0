@@ -1,0 +1,13 @@
+** Uniformly Accelerated Motion
+:PROPERTIES:
+:ID:       d0f008b3-2d59-40fb-b5a8-12b038177dc0
+:END:
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is changing at /constant/ rate.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /constant/.
+- If an object changes its velocity from an _initial velocity_ $v_i$, and a _final
+  velocity_ $v_f$, during a time interval $t$, its acceleration is given by:
+Formula:
+\begin{equation*}
+a = \frac{v_f - v_i}{t}
+\end{equation*}
+

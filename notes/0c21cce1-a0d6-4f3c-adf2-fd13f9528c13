@@ -1,0 +1,137 @@
+* Eukaryotic organelles
+:PROPERTIES:
+:ID:       0c21cce1-a0d6-4f3c-adf2-fd13f9528c13
+:END:
+** Interior Structures
+:PROPERTIES:
+:ID:       1f2438c5-2c64-44f1-8772-7e75f5bb8832
+:END:
+*** [[id:436e0249-34bb-4171-95c3-c164d97d86eb][Nucleus]]
+*** [[id:4b481e49-21ba-455f-8268-888812e84a6c][Nucleolus]]
+*** Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       73023bd0-4849-40ca-97d4-d1d7e6a617e5
+:END:
+- also called *ER*.
+- network of interconnected membranes.
+- it helps move substances within cells.
+**** Types
+:PROPERTIES:
+:ID:       89727c8d-e5b0-4b69-950b-d99ea41a506a
+:END:
+***** Rough Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       2e992de6-7a7f-4121-9932-a147431fe95b
+:END:
+[[file:rough_er.png]]
+- Ribosomes attached to surface
+- Manufacture proteins
+- Ribosomes not permanently attached to Rough ER
+- May modify proteins from [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][ribosomes]]
+***** Smooth Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       c56fa34d-1079-4a27-b99a-2d2d5f49ce76
+:END:
+[[file:smooth_er.png]]
+- _No attached_ ribosomes
+- Has enzymes that help build molecules
+- Contains *Lipids*
+*** Golgi Apparatus
+:PROPERTIES:
+:ID:       a3e785d5-cda5-4c0c-8464-bc542baea2e0
+:END:
+[[file:golgi_apparatus.png]]
+- Sorts proteins made by the ribosomes and sends them to needed places in the
+  cell.
+- "the cell's post office"
+- _Packaging_ & shipping station of cell.
+*** Lysosomes
+:PROPERTIES:
+:ID:       777764bb-51eb-431a-8ffa-9571dce244b6
+:END:
+- organelles that are filled with digestive enzymes to remove waste and invading
+  bacteria.
+- Cell's suicide bags.
+**** Functions
+:PROPERTIES:
+:ID:       75a54e75-16b6-4d92-8abc-01da22ae6227
+:END:
+- Aid in cell renewal.
+- Break down old cell parts.
+- Digests invaders.
+*** Vacuoles
+:PROPERTIES:
+:ID:       69113f51-005e-4255-8d3d-22fee2b54bfd
+:END:
+- fluid filled organelles enclosed by a membrane.
+- Membrane bound storage sacs
+- Store materials such as food, sugar, water, and waste products
+- More common in *plants* than animals.
+*** Mitochondria
+:PROPERTIES:
+:ID:       d5972910-a234-4998-9327-9a1a0ecaa566
+:END:
+- "*powerhouse*" of the cell.
+- release energy for the cell.
+- converts the energy stored in glucose into *ATP* for the cell.
+- bound by _double membrane_.
+*** [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosomes]]
+*** Chloroplasts
+:PROPERTIES:
+:ID:       978ca8b9-abc9-4d0e-ac9b-d28707e5edf8
+:END:
+- Primary organelles for
+Photosynthesis - *chlorophyll*
+- captures _light energy_ and converts it into _chemical energy_ through the process
+  of [[id:e4ab4621-370f-4aed-bb2c-01b9e16e70ec][photosynthesis]].
+- Solar energy capturing organelle
+- absorbs all other colors except green.
+**** Photosynthesis
+:PROPERTIES:
+:ID:       e4ab4621-370f-4aed-bb2c-01b9e16e70ec
+:END:
+- Used by plants and other organisms to convert light energy into chemical energy
+- Energy Transformation
+- Takes place in the [[id:978ca8b9-abc9-4d0e-ac9b-d28707e5edf8][chloroplast]].
+- Makes cellular food called *glucose*.
+***** Equation
+$6CO_{2} + 6H_{2}O \xrightarrow{\text{Light}} C_{6}H_{12}O_{6} + 6O_{2}$
+*** Cytoskeleton
+:PROPERTIES:
+:ID:       cbc90f10-32b0-4953-8848-f0943c707de8
+:END:
+[[file:cytoskeleton.png]]
+- network of protein filaments, fibers and tubules.
+**** Functions
+:PROPERTIES:
+:ID:       7a03de9f-401b-4694-9991-40b7319cd418
+:END:
+- mechanical support
+- anchor organelles
+- it helps in moving substances
+**** Composition
+:PROPERTIES:
+:ID:       78531923-0edd-4f19-8367-a6273c236d64
+:END:
+***** Microfilaments
+:PROPERTIES:
+:ID:       d2418519-8b65-4437-a9f5-94f45ba6720e
+:END:
+- *thinnest*
+- composed of the protein /actin/.
+***** Microtubules
+:PROPERTIES:
+:ID:       3fa51318-5c78-4913-9816-32664f2698ad
+:END:
+- composed of protein /tubulin/
+- It is involved in nucleic and cell division, organization of intracellular
+  structure, and intracellular transport, as well as ciliary and flagellar
+  motility
+***** Intermediate filaments
+:PROPERTIES:
+:ID:       9ec7956b-158b-4640-9cba-e0408f1361f6
+:END:
+- maintain cell shape and help bind some cells together.
+*** [[id:c38e3073-0414-4c8b-bc9b-6ca38c5299cc][Cell Wall]]
+*** [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]]
+*** [[id:dcdb03d3-2550-4802-aaa0-73ce6ecb83bb][Flagellum]]/[[id:38a42ec3-0bf7-4b92-adcc-c70b369f695a][Cilia]]

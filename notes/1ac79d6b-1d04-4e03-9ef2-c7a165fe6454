@@ -2,6 +2,8 @@
 :ID:       1ac79d6b-1d04-4e03-9ef2-c7a165fe6454
 :END:
 #+title: Biology
+#+author: Paul Gerald D. Pare
+#+date: August 03, 2023
 
 * 1st Semester
 :PROPERTIES:
@@ -12,5 +14,6 @@
 :ID:       72faf7bc-1502-4413-80e5-c36229c79198
 :END:
 *** Topics
--> Week 1: [[id:c152b0d0-a0d3-4998-98a2-5c80c3fddcf2][Cell Theory, Structures and Function]]
-** Quarter 2
+- Week 1: [[id:c152b0d0-a0d3-4998-98a2-5c80c3fddcf2][Cell Theory, Structures and Function]]
+- Week 2: [[id:cd6668c4-c229-40c5-9d10-777bed77a841][Cell Types and Cell Modification]]
+- Week 3: [[id:11026241-a058-4258-94ee-e06392e2789d][Mitosis and Meiosis]]

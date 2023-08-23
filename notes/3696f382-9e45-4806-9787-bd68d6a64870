@@ -2,6 +2,9 @@
 :ID:       3696f382-9e45-4806-9787-bd68d6a64870
 :END:
 #+title: Measurement
+#+author: Paul Gerald D. Pare
+#+date: August 01, 2023
+#+GIT_COMMIT_MSG: Q1W1(Physics): Measurement
 
 * Definition
 * Types
@@ -155,3 +158,16 @@ x  6.027 -> 4 significant figures
 - It refers to the degree of exactness to which a measurement can be reproduced.
 
 ** [[id:73e518df-f6a9-4a25-b917-8bd623fbd2b4][Examples]]
+* Scalar
+:PROPERTIES:
+:ID:       3e726f82-bf1a-4cf0-a332-b28a53aa6589
+:END:
+- a quantity that describes by *magnitude* only.
+- Examples include:
+  - time
+  - length
+  - speed
+  - temperature
+  - mass
+  - energy
+* [[id:186715a6-1a65-421d-ae46-e0909f38ba47][Vector]]

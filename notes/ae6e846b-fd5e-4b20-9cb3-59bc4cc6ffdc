@@ -1,0 +1,18 @@
+* Vertical Equilibrium
+:PROPERTIES:
+:ID:       ae6e846b-fd5e-4b20-9cb3-59bc4cc6ffdc
+:END:
+[[file:fbd_furniture.png]]
+- It is the sum of vertical forces acting on the object.
+- In static equilibrium, the sum of vertical forces is zero, meaning the normal
+  force and weight balance each other.
+- $\sum\vec{F_y} = F_n - w = 0$ /(for static equilibrium)/
+  + $\sum\vec{F}_y$ represents the sum of vertical forces.
+  + $F_n$ is the normal force exerted by a supporting surface.
+  + $w$ is the weight of the object due to gravity.
+- $\sum\vec{F}_y = N + P_y - w = 0$
+  + More detailed version of the first formula.
+  + $\sum\vec{F}_y$ represents the sum of vertical forces.
+  + $N$ is the normal force exerted by a supporting surface.
+  + $P_y$ is any vertical force component applied to the object.
+  + $w$ is the weight of the object due to gravity.

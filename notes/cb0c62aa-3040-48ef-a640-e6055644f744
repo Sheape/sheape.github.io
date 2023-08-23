@@ -1,0 +1,14 @@
+* Air Resistance
+:PROPERTIES:
+:ID:       cb0c62aa-3040-48ef-a640-e6055644f744
+:EXTRA_INFO: true
+:END:
+- a type of _force_.
+- also known as _air drag_ or _aerodynamic drag_, is a force that opposes the motion
+  of an object through the air.
+- think of it as friction but against *gravity* except it also works horizontally
+  but its only for complex problems.
+Formula:
+$F_{air} = -kv^2$
+- $k$ is a /constant/ that depends on the object's shape and other factors.
+- $v$ is the object's velocity.

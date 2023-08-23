@@ -1,0 +1,14 @@
+** Cosine Law
+:PROPERTIES:
+:ID:       55f2d7bc-c929-42a9-9349-cfa5b6ccbeb1
+:END:
+- use it when you are given *2 sides and one angle* in a triangle. Obviously,
+  these triangles in this case is about vectors.
+- Note: The range of $cos^{-1}(x)\ |\ R = \{ 0, \pi \}$ so this is highly
+  recommended to use instead of sine law.
+Formulas:
+\begin{align*}
+a^2 & = b^2 + c^2 - 2bc\ cosA \\
+b^2 & = a^2 + c^2 - 2ac\ cosB \\
+c^2 & = a^2 + b^2 - 2ab\ cosC
+\end{align*}

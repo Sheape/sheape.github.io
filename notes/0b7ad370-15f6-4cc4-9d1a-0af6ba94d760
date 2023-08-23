@@ -2,7 +2,7 @@
 :PROPERTIES:
 :ID:       0b7ad370-15f6-4cc4-9d1a-0af6ba94d760
 :END:
-[[file:assets/biology/q1/w1/prokaryotic-organelles.png]]
+[[file:prokaryotic-organelles.png]]
 - Also called _no membrane-bound organelles_.
 - These are /organelles/ that are not inside of a membrane of a cell.
 ** Plasma/Cell Membrane
@@ -15,6 +15,11 @@
 - They let some things through such as food and energy, but also defends itself from the environment and other cells.
 - It is made of _phospholipid bilayer_ and the different types of proteins floating around it.
 - The cell membrane is *semi-permeable*.
+*** Phospholipids
+:PROPERTIES:
+:ID:       4f0c1142-f8f3-4acf-acdd-73370a4d522e
+:END:
+- class of lipids that are major component of all cell membranes.
 ** Cell Wall
 :PROPERTIES:
 :ID:       c38e3073-0414-4c8b-bc9b-6ca38c5299cc
@@ -22,6 +27,10 @@
 - Outer layer of [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]].
 - Made up of _peptidoglycan_, a polymer of sugars and amino acids that creates a mesh-like layer around the cell.
 - Its function is to provide additional protection for the cell.
+*** Plants
+- It is in the cellulous.
+*** Fungi
+- contain _chitin_.
 ** Capsule
 :PROPERTIES:
 :ID:       35745c84-d4fc-4ac1-8e63-a41c080bec24
@@ -34,11 +43,17 @@
 - The interior of the cell is called the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]].
 - Specifically, the fluid within the membrane is called _cytosol_.
 - Its a jelly-like fluid where all inside components are floating around.
+*** Components
+:PROPERTIES:
+:ID:       466bebab-56b2-4b08-8b83-31c6ae2a4787
+:END:
+- _Cytosol_
+- Interconnected filaments & fibers.
+- storage substances.
 ** Nucleoid
 :PROPERTIES:
 :ID: 7f1daebc-e643-4712-b95e-2f5320aade81
 :END:
-#TODO
 - Similar to the nucleus in a eukaryotic cell, this holds genetic information about the cell.
 - The [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosome]] is responsible for the DNA transcription to happen.
 ** Plasmid
@@ -47,20 +62,27 @@
 :END:
 - A small, _extrachromosomal DNA_ that is physicall seperated from the cell's DNA.
 - It can replicate independently and is also vital for the survival of a cell or organism.
-** Ribosome
+** Ribosomes
 :PROPERTIES:
 :ID: 4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13
 :END:
-#TODO: brb to this
+#+TODO: brb to this
+- Sites of *protein synthesis*.
 - They are responsible for protein production as a product of DNA transcription.
 - It does this by binding itself to _mRNA (messenger RNA)_ to determine the correct sequence of amino acids.
 - The DNA translation provides the _protein_ (that includes enzymes from the DNA) and _DNA polymerase_.
 - The process also provides _hexokinase_ which has a role in metabolism that provides the energy needed for the cell to function.
   - You can compare this to mitochondria in the eukaryotic cells.
+** [[id:a3e8779a-2286-4862-ac3a-487fdf2a5bf8][Chromosomes]]
 ** Flagellum
 :PROPERTIES:
 :ID:       dcdb03d3-2550-4802-aaa0-73ce6ecb83bb
 :END:
+[[file:../w2/flagella.png]]
+- Plural-form /Flagella/.
+- Whip-like extensions that allows a cell to move.
+- Found on *sperm* cells.
+  + plenty of [[id:d5972910-a234-4998-9327-9a1a0ecaa566][mitochondria]].
 - A hairlike appendage that has a couple of functions for motility.
 - The bacteria uses their flagella to:
   - move in fluid (/motility/),
@@ -70,3 +92,17 @@
 *** Types
 1. Bacterial flagella
 2. Archaeal flagella
+** Cilia
+:PROPERTIES:
+:ID:       38a42ec3-0bf7-4b92-adcc-c70b369f695a
+:END:
+- Latin word for "eyelashes".
+- _tiny hairs_ on the surface of certain cells.
+- move in a rhythmic, sweeping motion and serve to move particles or cells in
+  your body.
+- cilia lining in respiratory tract.
+- *Tracheal* cells
+- Beat and drive air impurities or foreign particles and mucus up the trachea to
+  the mouth
+- Short
+- Used to move substances outside human cells.

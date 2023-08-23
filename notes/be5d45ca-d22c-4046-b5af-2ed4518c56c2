@@ -1,0 +1,19 @@
+* Polygon Method
+:PROPERTIES:
+:ID:       be5d45ca-d22c-4046-b5af-2ed4518c56c2
+:END:
+[[file:polygon_method.png]]
+** Steps
+:PROPERTIES:
+:ID:       5f12fa2e-ead1-4c2d-b66b-ef14e9e82ff9
+:END:
+1. Draw the _first vector_ with the proper length
+    and orientation.
+2. Draw the _second vector_ with the proper length
+    and orientation originating from the head of
+    the first vector.
+3. The _resultant vector_ is the vector originating
+    at the tail of the first vector and terminating
+    at the head of the second vector.
+4. Measure the length and orientation angle of
+    the resultant.

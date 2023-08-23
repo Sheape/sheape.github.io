@@ -1,0 +1,21 @@
+* Unit Vector
+:PROPERTIES:
+:ID:       a205bbaf-4e49-4e20-baab-3c4ad49fac41
+:END:
+** Formula
+\begin{align*}
+U = \frac{v}{\lVert v \rVert}
+\end{align*}
+** Example
+Given that we have: $V = \langle 4, -3 \rangle$:
+Find the unit vector of it:
+\begin{align*}
+& U = \frac{V}{\lVert v \rVert}
+= \frac{\langle4, -3\rangle}{5}
+= \left\langle \frac{4}{5}, \frac{-3}{5} \right\rangle \\
+& \lVert v \rVert
+= \sqrt{4^2 + (-3)^2}
+= \sqrt{16 + 9}
+= \sqrt{25}
+= 5
+\end{align*}

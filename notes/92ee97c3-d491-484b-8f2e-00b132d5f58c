@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       92ee97c3-d491-484b-8f2e-00b132d5f58c
+:END:
+#+title: Work, Energy, Conservative and Nonconservative Forces
+#+author: Paul Gerald D. Pare
+#+date: August 18, 2023
+#+GIT_COMMIT_MSG: Q1W6(Physics): Work, Energy, Conservative and Nonconservative Forces
+
+* Dot Product
+:PROPERTIES:
+:ID:       a5299e6b-c0b6-4333-a203-5ba5099c0b4c
+:END:
+- It is a way on how to multiply two vectors returning a *scalar* quantity.
+- Just map the first component of the first vector to the first component of the
+  second vector and so on.
+Example:
+\begin{align*}
+& a = \langle2, 2\rangle \\
+& b = \langle5, -3\rangle \\
+& a\cdot b = [(2)(5)] + [(2)(-3)] = 10 + -6 = 4
+\end{align*}
+Alternative Formula:
+\begin{align*}
+& a\cdot b = \lvert a\rvert\lvert b\rvert cos\theta \\
+& cos\theta = \frac{a\cdot b}{|a||b|}
+\end{align*}
+Remember:
+\begin{align*}
+& a =  \langle A_x, A_y \rangle \\
+& \lvert a\rvert = \sqrt{A_x^2 + A_y^2} \\
+& \lVert a\rVert = abs(\lvert a \rvert)
+\end{align*}
+* [[id:207b9614-d548-4d56-87e5-bd6fcf88fe65][Work]]
+* [[id:8339f681-6e89-4f72-bea4-81e05b9daed0][Energy]]
+* Power
+:PROPERTIES:
+:ID:       e5ff554d-f532-4156-8ccf-660982bbaca4
+:END:
+\begin{align*}
+Average\ Power = \frac{Work}{time}
+\end{align*}
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of *Power* is /Watts (W)/ which is just /Joule/second/.
+- The power outputted by a powered object, such as an engine or muscles, is sometimes called the *motive power*.
+** Formula
+- Deriviation:
+\begin{align*}
+P_{ave} &= \frac{W}{t} \\
+&= \frac{Fd}{t} \\
+&= F\frac{d}{t} \\
+&= Fv_{ave}
+\end{align*}

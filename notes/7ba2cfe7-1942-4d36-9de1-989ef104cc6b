@@ -1,0 +1,15 @@
+* Net External Force
+:PROPERTIES:
+:ID:       7ba2cfe7-1942-4d36-9de1-989ef104cc6b
+:END:
+- The net external force acting on the object.
+- The net external force determines the object's acceleration or state of rest.
+  If it's zero, the object is in equilibrium.
+- $\sum\vec{F} = F_{ax} - f$ /where $\vec{F}$ is the net external force/
+  + $\sum\vec{F}$ represents the net external force.
+  + $F_{ax}$ is the net applied force in the horizontal direction.
+  + $f$ represents friction.
+- $\sum\vec{F} = P_x - f$
+  + $P_{x}$ is the net applied force in the horizontal direction.
+  + If $\sum\vec{F}_y \neq 0$ then the object didn't touch the ground
+    surface. Therefore, the net external force is $\neq \sum\vec{F}_x$

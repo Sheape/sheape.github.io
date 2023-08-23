@@ -1,0 +1,28 @@
+** Velocity Calculation
+:PROPERTIES:
+:ID:       ae2f3704-a2ed-4eef-b04e-a21baecc4427
+:END:
+- The components of velocity at time $t$ are:
+\begin{equation*}
+\begin{split}
+v_x = v_{0x} + a_xt \\
+v_y = v_{0x} + a_yt
+\end{split}
+\end{equation*}
+- For projectiles:
+\begin{equation*}
+\begin{split}
+a_x & = 0; \\
+a_y & = g; \\
+v_{0y} & = v_0 sin\theta; \\
+v_{0x} & = v_0 cos\theta
+\end{split}
+\end{equation*}
+- displacement components x and y for projectiles are:
+\begin{equation*}
+\begin{split}
+v_x & = v_{0x}\ constant \\
+v_y & = v_{0y} + gt
+\end{split}
+\end{equation*}
+

@@ -1,0 +1,27 @@
+** Displacement Calculation
+:PROPERTIES:
+:ID:       1bb2539d-87d6-4722-b2c9-63213257c426
+:END:
+- The components of displacement at time $t$ are:
+\begin{equation*}
+\begin{split}
+d_x = v_{0x}t + \frac{1}{2}a_xt^2 \\
+d_y = v_{0y}t + \frac{1}{2}a_yt^2
+\end{split}
+\end{equation*}
+- For projectiles:
+\begin{equation*}
+\begin{split}
+a_x & = 0; \\
+a_y & = g; \\
+v_{0y} & = v_0 sin\theta; \\
+v_{0x} & = v_0 cos\theta
+\end{split}
+\end{equation*}
+- displacement components x and y for projectiles are:
+\begin{equation*}
+\begin{split}
+d_x & = v_{0x}t \\
+d_y & = v_{0y}t + \frac{1}{2}gt^2
+\end{split}
+\end{equation*}

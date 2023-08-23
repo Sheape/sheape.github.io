@@ -1,0 +1,11 @@
+* Kinetic Friction
+:PROPERTIES:
+:ID:       0866bbbf-daf5-4f92-beaf-3ae40e337016
+:END:
+- Once an object is in motion, kinetic friction opposes the ongoing motion
+  between the two surfaces.
+- $f_k = \mu_k\eta$
+  + $f_k$ - kinetic friction
+  + $\mu_k$ - coefficient of kinetic friction
+  + $\eta$ - /symbol's name is eta/ is the normal force.
+- always $f_k < f_s$

@@ -1,0 +1,24 @@
+* Dot Product
+:PROPERTIES:
+:ID:       a5299e6b-c0b6-4333-a203-5ba5099c0b4c
+:END:
+- It is a way on how to multiply two vectors returning a *scalar* quantity.
+- Just map the first component of the first vector to the first component of the
+  second vector and so on.
+Example:
+\begin{align*}
+& a = \langle2, 2\rangle \\
+& b = \langle5, -3\rangle \\
+& a\cdot b = [(2)(5)] + [(2)(-3)] = 10 + -6 = 4
+\end{align*}
+Alternative Formula:
+\begin{align*}
+& a\cdot b = \lvert a\rvert\lvert b\rvert cos\theta \\
+& cos\theta = \frac{a\cdot b}{|a||b|}
+\end{align*}
+Remember:
+\begin{align*}
+& a =  \langle A_x, A_y \rangle \\
+& \lvert a\rvert = \sqrt{A_x^2 + A_y^2} \\
+& \lVert a\rVert = abs(\lvert a \rvert)
+\end{align*}

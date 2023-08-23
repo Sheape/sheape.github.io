@@ -1,0 +1,18 @@
+* Force
+:PROPERTIES:
+:ID:       e3d5c1cf-5133-4ecd-9727-4c26b3da05bb
+:END:
+- Represents the push or pull applied to an object to change its motion or
+  shape.
+- *Force* is a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity, which means it has both magnitude and direction.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] for force is /Newton (N)/.
+|----------+--------------+-----------------------------------------------------------------------------------|
+| Force    | Symbol       | Direction                                                                         |
+|----------+--------------+-----------------------------------------------------------------------------------|
+| Friction | $F_f$        | Parallel to surface & opposite direction of sliding                               |
+| Normal   | $F_N$        | Perpendicular to & away from th surface.                                          |
+| Spring   | $F_{sp}$     | Opposite the displacement of the object at end of spring.                         |
+| Tension  | $F_T$        | Away from the object & parallel to spring, rope, or cable at point of attachment. |
+| Thrust   | $F_{thrust}$ | In same direction as acceleration of object.                                      |
+| Weight   | $W\ or\ F_g$ | Straight down toward center of Earth.                                             |
+|----------+--------------+-----------------------------------------------------------------------------------|

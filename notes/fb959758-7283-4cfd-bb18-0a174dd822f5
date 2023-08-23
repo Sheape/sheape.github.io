@@ -1,0 +1,15 @@
+* Static Friction
+:PROPERTIES:
+:ID:       fb959758-7283-4cfd-bb18-0a174dd822f5
+:END:
+- *Static friction* is the friction force when two surfaces in contact _do not move_
+  against each other, in other words it is the _friction force at rest_.
+- if the applied force $F_{a}$ exceeds the maximum static frictional force
+  $f_s$, then the object will finally move in the direction of the applied force.
+- [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][Scalar]] only.
+- $f_s = \mu_s\eta$
+  + $f_s$ - maximum static friction force
+  + $\mu_s$ - coefficient of static friction
+  + $\eta$ - /symbol's name is eta/ magnitude of normal force.
+- $\mu \propto f$
+- $f_s \propto F_n$

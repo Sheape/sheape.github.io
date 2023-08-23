@@ -1,0 +1,31 @@
+* Comparison of Structure
+:PROPERTIES:
+:ID:       493a99cd-65ff-40ea-ba5e-c54f909ce3f9
+:END:
+|-----------------------+-----------+--------+-------|
+|                       | Bacterium | Animal | Plant |
+|-----------------------+-----------+--------+-------|
+| Exterior Structures   |           |        |       |
+|-----------------------+-----------+--------+-------|
+| Cell Wall             | \check         | ✗      | \check     |
+| Plasma Membrane       | \check         | \check      | \check     |
+| Flagella (cilla)      | \ndash         | ✗      | [1]   |
+|-----------------------+-----------+--------+-------|
+| Interior Structure    |           |        |       |
+|-----------------------+-----------+--------+-------|
+| Endoplasmic Reticulum | ✗         | \uarr      | \uarr     |
+| Microtubules          | ✗         | \check      | \check     |
+| Centrioles            | ✗         | \check      | ✗     |
+| Golgi Apparatus       | ✗         | \check      | \check     |
+| Nucleus               | ✗         | \check      | \check     |
+| Mitochondria          | ✗         | \check      | \check     |
+| Chloroplasts          | ✗         | ✗      | \check     |
+| Chromosomes           | [2]       | [3]    | [3]   |
+| Ribosomes             | \check         | \check      | \check     |
+| Lysosomes             | ✗         | \check      | \check     |
+| Vacuoles              | ✗         | ✗ or \ndash    | [4]   |
+|-----------------------+-----------+--------+-------|
+- [1] Sperm of a few species possess flagella.
+- [2] A single circle of naked DNA.
+- [3] Multiple units, DNA associated with protein.
+- [4] Usually a large single vacuole in a mature cell.

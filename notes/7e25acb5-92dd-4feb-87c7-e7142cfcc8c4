@@ -1,0 +1,6 @@
+* Orthogonal Vectors
+:PROPERTIES:
+:ID:       7e25acb5-92dd-4feb-87c7-e7142cfcc8c4
+:END:
+- if the angle between two vectors is $\frac{\pi}{2}$ or $90^{\circ}$, the vectors are *orthogonal*.
+$a\cdot b = 0$ because $cos(\frac{\pi}{2}) = 0$

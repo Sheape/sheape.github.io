@@ -1,0 +1,8 @@
+* Sign conventions
+:PROPERTIES:
+:ID:       a00c87f2-1ee2-488a-8926-611593e25aa9
+:END:
+a. Distances _above_ the origin are *positive*. _Below_ the origin are *negative*.
+b. _Upward_ velocities are *positive*, _downward_ velocities are *negative*.
+c. $g$ is _always_ *negative*. origin is point of release.
+
