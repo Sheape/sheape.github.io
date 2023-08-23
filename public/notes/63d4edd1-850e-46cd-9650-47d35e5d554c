@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       63d4edd1-850e-46cd-9650-47d35e5d554c
+:END:
+#+title: Free-Body Diagram
+#+author: Paul Gerald D. Pare
+#+date: August 17, 2023
+
+* Definition
+[[file:free_body_diagram.png]]
+- pictures that show the size and direction of all forces acting on an object.
+* Steps to draw
+:PROPERTIES:
+:ID:       074c20f7-3e19-44bd-a35f-eb6a62f81da2
+:END:
+1. Pick one object to analyze
+2. Draw a box/point to represent the object
+3. Draw an arrow to represent each force acting on the object.
+4. Make sure the arrow shows the direction and relative size of the force.
+* Air Resistance
+:PROPERTIES:
+:ID:       cb0c62aa-3040-48ef-a640-e6055644f744
+:EXTRA_INFO: true
+:END:
+- a type of _force_.
+- also known as _air drag_ or _aerodynamic drag_, is a force that opposes the motion
+  of an object through the air.
+- think of it as friction but against *gravity* except it also works horizontally
+  but its only for complex problems.
+Formula:
+$F_{air} = -kv^2$
+- $k$ is a /constant/ that depends on the object's shape and other factors.
+- $v$ is the object's velocity.
+* Vertical Equilibrium
+:PROPERTIES:
+:ID:       ae6e846b-fd5e-4b20-9cb3-59bc4cc6ffdc
+:END:
+[[file:fbd_furniture.png]]
+- It is the sum of vertical forces acting on the object.
+- In static equilibrium, the sum of vertical forces is zero, meaning the normal
+  force and weight balance each other.
+- $\sum\vec{F_y} = F_n - w = 0$ /(for static equilibrium)/
+  + $\sum\vec{F}_y$ represents the sum of vertical forces.
+  + $F_n$ is the normal force exerted by a supporting surface.
+  + $w$ is the weight of the object due to gravity.
+- $\sum\vec{F}_y = N + P_y - w = 0$
+  + More detailed version of the first formula.
+  + $\sum\vec{F}_y$ represents the sum of vertical forces.
+  + $N$ is the normal force exerted by a supporting surface.
+  + $P_y$ is any vertical force component applied to the object.
+  + $w$ is the weight of the object due to gravity.
+* Horizontal Equilibrium
+:PROPERTIES:
+:ID:       558b93f5-6260-43b8-a702-b6c0734d8ea0
+:END:
+- It is the sum of horizontal forces acting on the object.
+- For horizontal equilibrium, the applied force and friction should balance each other out.
+- $\sum\vec{F_x} = F_a - f$
+  + $\sum\vec{F_x}$ represents the sum of horizontal forces.
+  + $F_a$ is an applied force externally acting horizontally.
+  + $f$ represents friction, which opposes motion.
+  + If pulling force $F_a < friction\ f$ then furniture is at rest otherwise it
+    will move to the right.
+- $\sum\vec{F}_x = P_x - f$
+  + $P_x$ is any horizontal force component applied to the object.
+* Net External Force
+:PROPERTIES:
+:ID:       7ba2cfe7-1942-4d36-9de1-989ef104cc6b
+:END:
+- The net external force acting on the object.
+- The net external force determines the object's acceleration or state of rest.
+  If it's zero, the object is in equilibrium.
+- $\sum\vec{F} = F_{ax} - f$ /where $\vec{F}$ is the net external force/
+  + $\sum\vec{F}$ represents the net external force.
+  + $F_{ax}$ is the net applied force in the horizontal direction.
+  + $f$ represents friction.
+- $\sum\vec{F} = P_x - f$
+  + $P_{x}$ is the net applied force in the horizontal direction.
+  + If $\sum\vec{F}_y \neq 0$ then the object didn't touch the ground
+    surface. Therefore, the net external force is $\neq \sum\vec{F}_x$
+* Static Friction
+:PROPERTIES:
+:ID:       fb959758-7283-4cfd-bb18-0a174dd822f5
+:END:
+- *Static friction* is the friction force when two surfaces in contact _do not move_
+  against each other, in other words it is the _friction force at rest_.
+- if the applied force $F_{a}$ exceeds the maximum static frictional force
+  $f_s$, then the object will finally move in the direction of the applied force.
+- [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][Scalar]] only.
+- $f_s = \mu_s\eta$
+  + $f_s$ - maximum static friction force
+  + $\mu_s$ - coefficient of static friction
+  + $\eta$ - /symbol's name is eta/ magnitude of normal force.
+- $\mu \propto f$
+- $f_s \propto F_n$
+* Kinetic Friction
+:PROPERTIES:
+:ID:       0866bbbf-daf5-4f92-beaf-3ae40e337016
+:END:
+- Once an object is in motion, kinetic friction opposes the ongoing motion
+  between the two surfaces.
+- $f_k = \mu_k\eta$
+  + $f_k$ - kinetic friction
+  + $\mu_k$ - coefficient of kinetic friction
+  + $\eta$ - /symbol's name is eta/ is the normal force.
+- always $f_k < f_s$

@@ -1,0 +1,34 @@
+* Motion in a Straight Line
+:PROPERTIES:
+:ID:       b84bcfbc-4196-4429-b466-fc125eed4f16
+:END:
+** Uniform Motion
+:PROPERTIES:
+:ID:       176ab3f2-93b5-46f0-be99-fb235ceb2124
+:END:
+- *Simplest* type of motion.
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is /constant/.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /zero/. $A = 0$
+- [[id:d6fc47b7-859d-4aea-982d-2b8d06e7f823][Instantaneous Velocity]] is equal to average velocity. $V_I = V_a$
+- Its [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]] $d_x$ may be obtained by multiplying its constant velocity
+  /v/ by the time.
+Formula:
+$d_x = vt$
+** Accelerated Motion
+:PROPERTIES:
+:ID:       9d2de597-1133-42f4-8e0a-93558061a02a
+:END:
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is changing.
+** Uniformly Accelerated Motion
+:PROPERTIES:
+:ID:       d0f008b3-2d59-40fb-b5a8-12b038177dc0
+:END:
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is changing at /constant/ rate.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /constant/.
+- If an object changes its velocity from an _initial velocity_ $v_i$, and a _final
+  velocity_ $v_f$, during a time interval $t$, its acceleration is given by:
+Formula:
+\begin{equation*}
+a = \frac{v_f - v_i}{t}
+\end{equation*}
+

@@ -1,0 +1,7 @@
+** Online Functions
+:PROPERTIES:
+:ID:       40d093a9-9e7a-4bc0-9fd8-dfeb67b0c7d6
+:END:
++ include _email notifications_ from the server, the _updating of web blacklists_ (lists of undesirable websites), _updating of the list_ of file-sharing programs, and _remote access_ to Child.
+- pretty much anything that requires the access to Web or API calls.
+

@@ -1,0 +1,92 @@
+:PROPERTIES:
+:ID:       62bb4042-ea0a-48ac-bfdc-291b51360605
+:END:
+#+title: Web 2.0
+#+author: Paul Gerald D. Pare
+#+date: August 06, 2023
+
+It is the evolution of [[id:0d68adee-a520-47e3-ae7c-e996cf505e9d][Web 1.0]] by adding [[id:2f5c901a-6c8d-46bf-8b15-09f78ddc67ac][Dynamic pages]].
+* Darcy DiNucci
+:PROPERTIES:
+:ID:       b8f27620-bff2-4f39-8310-f48509a6674f
+:END:
+- An _information architecture_ consultant who coined the term "[[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]]", in her *January 1999* article "/Fragmented Future/".
+* Tim O'Reilly
+:PROPERTIES:
+:ID:       6a69068b-cafa-4c4b-b164-6f30e2f2266a
+:END:
+- an Irish-American author and publisher
+- He popularized the terms _open source_ and [[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]].
+- He proposed a long-term vision of the
+* Definition
++ *1999*
++ The user is able to see a website differently than others.
++ It also allows users to use [[id:70e7e982-ea37-4f61-bee0-1e4a5db8fb94][Browsers]] instead of just using their operating system.
++ This is what we call [[id:2f5c901a-6c8d-46bf-8b15-09f78ddc67ac][Dynamic pages]].
++ Most of the websites nowadays are [[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]].
+** Browsers
+:PROPERTIES:
+:ID:       70e7e982-ea37-4f61-bee0-1e4a5db8fb94
+:END:
+- It can now be used for their user interface, application software (or web applications), and even for file storage.
+** Dynamic pages
+:PROPERTIES:
+:ID:       2f5c901a-6c8d-46bf-8b15-09f78ddc67ac
+:END:
+- The content is dynamically produced when the user requested to.
+* Examples
+:PROPERTIES:
+:ID:       0a416343-857d-4c4e-a8d3-cf68a9e0476f
+:END:
+#+begin_example
+- Social networking sites
+- Blogs
+- Wikis
+- Video sharing sites
+- Hosted services
+- Web Applications
+#+end_example
+
+* Comparison
+:PROPERTIES:
+:ID:       a32d0197-aa87-4469-bf30-45c200a4c82b
+:END:
+- [[id:0d68adee-a520-47e3-ae7c-e996cf505e9d][Web 1.0]] vs [[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]]
+[[file:web1_vs_web2.png]]
+
+* Features
+:PROPERTIES:
+:ID:       f2950198-a90e-4c13-b72a-b2f540685a40
+:END:
+** [[id:bcfafa38-0910-422c-bf16-dfd53b5b2519][Folksonomy]]
+** Rich User Experience
+:PROPERTIES:
+:ID:       fca6282d-cfe0-47f8-8529-a269a61cb2ef
+:END:
++ dynamic content that is responsive to user's input.
++ An example would be a website that shows _local content_. In the case of social networking sites, when logged on, your account is used to modify what you see in their website.
+- This also refers to websites having [[id:2f5c901a-6c8d-46bf-8b15-09f78ddc67ac][Dynamic pages]].
+
+** Long Tail
+:PROPERTIES:
+:ID:       7f74a5fb-1b59-4bb3-b796-38892e31b1f4
+:END:
++ services are offered on demand rather than on a onetime purchase. In certain cases, _time-based pricing_ is better than _file-size-based pricing_ or vice versa.
++ synonymous to _subscribing_ to a data plan that charges you for the amount of time you spent in the Internet, or a data plan that charges you for the amount of bandwidth you used.
+- *On-demand* is like renting an apartment monthly instead of *one-time purchase* of buying an entire house.
+** User Participation
+:PROPERTIES:
+:ID:       7d5c7b5b-f4df-4c9a-ab8d-55671c59761b
+:END:
+- also known as *crowdsourcing*.
++ *Crowdsourcing* involves a large group of dispersed participants _contributing or producing goods or services_.
++ The _owner_ of the website who is able to put content.
++ Others are able to place a content of their own means of _comment, reviews, and evaluation_.
+- Similar to how users can edit and modify existing pages in _Wikipedia_.
+** [[id:74c52ec9-a855-444a-a7ca-850167256151][Software as a Service]]
+** Mass Participation
+:PROPERTIES:
+:ID:       c889e38c-7cbe-4303-ad12-5055ea709464
+:END:
++ It is a _diverse information sharing_ through universal web access.
+- Websites such as _Facebook, Reddit, Instagram_ can be used to share information or things about you and others that are from _various cultures_.

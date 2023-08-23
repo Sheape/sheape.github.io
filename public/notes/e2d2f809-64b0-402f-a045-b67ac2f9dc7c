@@ -1,0 +1,14 @@
+* Kinematics Equations
+:PROPERTIES:
+:ID:       e2d2f809-64b0-402f-a045-b67ac2f9dc7c
+:END:
+\begin{equation*}
+\begin{split}
+v_f & = v_i + at \\
+d_x & = v_{i}t + \frac{1}{2}at^2 \\
+2ad_x & = v_{f}^{2} - v_{i}^{2}
+\end{split}
+\end{equation*}
+- Use the first formula if $d_x$ is not given.
+- Use the second formula if $v_f$ is not given.
+- Use the third formula if $t$ is not given.

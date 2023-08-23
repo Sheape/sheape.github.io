@@ -1,0 +1,7 @@
+* Relative Velocity
+:PROPERTIES:
+:ID:       d9c5b115-5caa-4e15-bed9-3182250957b7
+:END:
+- The [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] of an /object A/ relative to another /object B/ is the velocity that
+  /object A/ would appear to have to an observer moving with /object B/.
+[[file:relative_velocity.png]]

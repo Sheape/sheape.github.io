@@ -1,0 +1,10 @@
+** On Spring
+:PROPERTIES:
+:ID:       2919234e-c42e-46c2-b4d1-9b8cc9463f93
+:END:
+[[file:ped_glider.png]]
+- This is using the formula from [[id:3bf4183a-4f3a-49d9-ac78-abdc857906cf][Spring Potential Energy]]
+  $\displaystyle\frac{kx^2}{2}$.
+- As you can see, this is a _parabola_.
+- When $X_0 = 0$, the potential energy is 0 but the kinetic energy is at max.
+

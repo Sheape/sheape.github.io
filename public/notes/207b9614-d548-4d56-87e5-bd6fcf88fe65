@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       207b9614-d548-4d56-87e5-bd6fcf88fe65
+:END:
+#+LATEX_HEADER: \usepackage{cancel}
+#+title: Work
+#+author: Paul Gerald D. Pare
+#+date: August 18, 2023
+
+* Definition
+- *action* done on an object that _displaces_ the object.
+- *Work* is the _dot product_ of [[id:e3d5c1cf-5133-4ecd-9727-4c26b3da05bb][force]] and [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]]. It is a [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][scalar]] quantity.
+- Work can be \pm and if it is -, then the work done is _opposite_ of the direction
+  of the displacement.
+- it can also be defined as a change in [[id:b5078924-545f-4ecc-9371-d89fa8160e8b][energy]].
+- *Work* is done only when a force succeeds in _moving_ the body upon which it acts.
+  - Work is only done if _displacement_ occurs.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of work is /Joules (J)/ which is in $N \cdot m$.
+- only the component of force *parallel* to the displacement counts towards work.
+* Formula
+:PROPERTIES:
+:ID:       907609b9-e5ac-4ece-b73c-4150cdca76e7
+:END:
+- Formula: $W = Fd$
+  + where the $F$ is the magnitude of the applied force.
+  + $d$ is the displacement of the object.
+- More detailed formula: $W = Fd\ cos(\theta)$
+- If the work done is inconsistent and you want to get the total amount of work
+  done within a given time period then:
+\begin{align*}
+W = \int_{x_1}^{x_2} F(x)\, dx
+\end{align*}
+ + where $x_1$ is the first position of the object.
+ + where $x_2$ is the last position of the object.
+** Deriviation
+:PROPERTIES:
+:ID:       14c19b98-1312-4e6c-9943-c290ec42dcd8
+:END:
+- Other Formulas
+\begin{align*}
+& W = \Delta E_k \\
+& W = -\Delta E_p
+\end{align*}
+- Deriviation for general:
+\begin{align*}
+W &= \int_{t_1}^{t_2} Fv\, dt \\
+&= \int_{t_1}^{t_2} F \frac{ds}{\cancel{dt}}\, \cancel{dt} \\
+&= \int_{C}F\cdot ds \\
+&= F\int_{C} ds \\
+&= Fs
+\end{align*}
+- Deriviation with angle \theta:
+\begin{align*}
+W &= \int_{C} F\, ds \\
+&= Fs\ cos\theta
+\end{align*}

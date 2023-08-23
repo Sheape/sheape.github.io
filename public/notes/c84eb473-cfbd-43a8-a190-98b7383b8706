@@ -1,0 +1,33 @@
+* Methods
+:PROPERTIES:
+:ID:       c84eb473-cfbd-43a8-a190-98b7383b8706
+:END:
+** Inspection
+:PROPERTIES:
+:ID:       5d1d8d29-d50d-48a6-a26d-6d9b55404e28
+:END:
+- using _ordered pairs_ and the definitions of displacement, velocity,
+  acceleration, and time to analyze motion.
+- On position x-time, velocity-time, and acceleration-time graphs.
+- only used for straight line simple graph.
+- All x-time graphs must be _positive_.
+** Slope
+:PROPERTIES:
+:ID:       f9257d33-d1a4-42a9-a453-364d1784ebe8
+:END:
+- *Velocity* of the object can be determined from the graph using slope:
+- Note: The ratio that defines *average velocity* also defines the
+  *slope* of the x-t graph.
+\begin{equation*}
+V = \frac{\Delta x}{\Delta t} = \frac{\Delta x_2 - \Delta x_1}{\Delta t_2 - \Delta t_1}
+\end{equation*}
+- Note: The *slope of a velocity* time graph gives the *acceleration*.
+\begin{equation*}
+A = \frac{\Delta v}{\Delta t} = \frac{[\frac{\Delta x_2 - \Delta x_1}{\Delta t_2 - \Delta t_1}]}{t_2 - t_1}
+\end{equation*}
+** Area under the curve
+:PROPERTIES:
+:ID:       ceb52b54-44cc-44b9-9bb4-ad4dd57698ec
+:END:
+- If the question is asking how far or something in a given *interval*.
+

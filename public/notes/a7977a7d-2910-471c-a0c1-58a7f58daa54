@@ -1,0 +1,21 @@
+* Velocity
+:PROPERTIES:
+:ID:       a7977a7d-2910-471c-a0c1-58a7f58daa54
+:END:
+- When the speed of a body is associated with a _direction_, the result is the
+  velocity of the body.
+- Velocity is [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+- The speed of the body is the magnitude of its velocity.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] for [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] and [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] is _meter per second_, m/s.
+- *Average velocity* is total displacement divided by total time.
+- It can change in _3 ways_: change in [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] (/increase or decrease/), change
+  in _direction_, change in [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] as well as direction.
+- The *derivative* of velocity with respect to time is [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][acceleration]].
+** Formula
+- Other formulas that we may use in certain cases:
+\begin{align*}
+& v = \int \vec{a}\, dt \\
+& v = \frac{dx}{dt} \\
+& v = \frac{total\ displacement}{total\ time}
+\end{align*}
++ $x$ is [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]]

@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       822287fd-3ff7-4ad3-8087-3cf4b0b9b5dd
+:END:
+#+title: Energy Conservation, Work, and Power Problems
+#+author: Paul Gerald D. Pare
+#+date: August 19, 2023
+#+GIT_COMMIT_MSG: Q1W7(Physics): Energy Conservation, Work, and Power Problems
+
+* Potential Energy Diagram
+:PROPERTIES:
+:ID:       cc8929b5-fdbd-4d80-ae3a-471a455e2c16
+:END:
+[[file:potential_energy_diagram.png]]
+- A *potential energy graph* is a useful tool in interpreting information as
+  regards the _dynamic behavior_ of [[id:b4985054-6ddd-4176-bc88-5a87e98faca3][potential energy]] as a function of position.
+- This is a linear graph.
+- Freely falling object near the surface of the earth is a good example when air
+  resistance is neglected. Mechanical energy is conserved, $E = K + U$, and the potential energy is zero at ground level.
+- $E_{mechanical}$ is fixed and cannot gain or lose energy because
+  $W_{non-conservative} = 0$.
+** Formulas
+\begin{align*}
+& E = K - U \ge 0 \\
+& U \le E \\
+& E_{p} = -\int\vec{F}\, d\vec{r} \\
+& \vec{F}(x) = -\frac{du}{dx} \\
+& E_{k} = E_{mechanical} - E_{p}
+\end{align*}
+- Expression in terms of y: $\displaystyle y \le \frac{E}{mg} = y_{max}$
+- The kinetic energy is maximum when the potential energy is minimum and vice versa.
+\begin{align*}
+& U_0 = 0 = E - K_0 \\
+& E = K_0 = \frac{mv_0^2}{2} \\
+& v_0 = \pm \sqrt{\frac{2E}{m}}
+\end{align*}
+** On Spring
+:PROPERTIES:
+:ID:       2919234e-c42e-46c2-b4d1-9b8cc9463f93
+:END:
+[[file:ped_glider.png]]
+- This is using the formula from [[id:3bf4183a-4f3a-49d9-ac78-abdc857906cf][Spring Potential Energy]]
+  $\displaystyle\frac{kx^2}{2}$.
+- As you can see, this is a _parabola_.
+- When $X_0 = 0$, the potential energy is 0 but the kinetic energy is at max.
+
+** Types of Equilibrium Points
+:PROPERTIES:
+:ID:       871b0c0b-95f2-43f3-bbce-10a5ba1edebb
+:END:
+[[file:equilibrium_points.png]]
+*** Stable
+:PROPERTIES:
+:ID:       0442b908-a7b1-4067-954d-0b9da1405de3
+:END:
+- The *minimum* of the potential energy graph.
+*** Unstable
+:PROPERTIES:
+:ID:       5a5a013b-7785-4807-8ca6-66bdc104c914
+:END:
+- The *maximum* of the potential energy graph.
+*** Neutral
+:PROPERTIES:
+:ID:       9700ce04-f331-42e4-8306-9469ba6bf993
+:END:
+- Neither maximum nor minimum.

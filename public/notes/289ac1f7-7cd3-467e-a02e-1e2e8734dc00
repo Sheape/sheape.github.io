@@ -1,0 +1,142 @@
+:PROPERTIES:
+:ID:       289ac1f7-7cd3-467e-a02e-1e2e8734dc00
+:END:
+#+title: Information and Communication Technology
+#+author: Paul Gerald D. Pare
+#+date: August 04, 2023
+#+GIT_COMMIT_MSG: Q1W1(Emptech): Information and Communication Technology
+
+* Definition
+** Information
+:PROPERTIES:
+:ID:       8b0cb25c-be9f-4cda-8515-9c92bddb5cf7
+:END:
+- facts provided or learned about something or someone.
+** Communication
+:PROPERTIES:
+:ID:       d07e38e4-04e7-48b6-bb0e-e2c5b63978b6
+:END:
+- the imparting or exchanging of information or news.
+** Technology
+:PROPERTIES:
+:ID:       9b4c8400-c4cd-4188-bc2c-da5005ce7396
+:END:
+- machinery and equipment developed from the application of scientific knowledge.
+
+* ICT
+:PROPERTIES:
+:ID:       7ad3855c-06d2-489e-a8d8-5d9c68c5d615
+:END:
+** Definition
+- use of *different communication technologies* such as phones, internet, computer, etc. to _locate, save, send, and edit information_.
+** Effects
+:PROPERTIES:
+:ID:       52b164d3-ffd8-448b-a8f2-65244115f95f
+:END:
+1. Business Process, Outsourcing Centers or Call center companies.
+   - Teleperformance
+   - iQor
+   - Accenture
+   - Concentrix
+   - Sutherland
+   - VXI
+2. *137* cellphones per *100* Filipinos. _(2020)_
+3. *19.3%* Employment share _(2010)_
+4. _Makati City_ - Selfie Capital of the World
+5. *258* selfie-takers per *100,000* people _(Time Magazine, 2014)_
+6. _Cebu City_ - *9th* placer, *99* selfie-takers per *100,000* people.
+#TODO: continue later, too much statistics.
+** State
+:PROPERTIES:
+:ID:       e9753a27-c8e5-4431-8986-c8e4dadfeda3
+:END:
+*** World Wide Web (WWW)
+:PROPERTIES:
+:ID:       c98fb78e-23fd-4870-8d2c-29dfac416b1a
+:END:
+**** Definition
++ It is an information space where documents and other web resources are identified by _Uniform Resource Locators (URLs)_, interlinked by hypertext links, and can be accessed via the Internet.
++ It's a web of hyperlinked text with different types of information embedded to each website such as text, media, or other hyperlinks linking to another website.
+**** Types
+:PROPERTIES:
+:ID:       d6548479-bbb7-4d7f-9178-ed5cd824fcf0
+:END:
+***** [[id:0d68adee-a520-47e3-ae7c-e996cf505e9d][Web 1.0]]
+***** [[id:62bb4042-ea0a-48ac-bfdc-291b51360605][Web 2.0]]
+***** [[id:7c182520-cef4-4197-b1b0-0d703caeb0ca][Web 3.0]]
+** Trends
+:PROPERTIES:
+:ID:       d6a95eac-9eae-4919-bdd5-bed10a83c2a6
+:END:
+*** Convergence
+:PROPERTIES:
+:ID:       d71119ba-2bf0-44e3-a3f8-41b3840e377c
+:END:
++ *Technological convergence* is the synergy of technological advancements _to work on a similar goal or task_.
+- The tendency for different technological systems to evolve toward performing similar tasks.
+- _Telephones, consoles, DVD/CD players, cameras, and etc._ are being replaced with just a single phone since a phone can do everything as all of those without needing to buy them seperately.
+- These old devices are then becoming *obsollete* in favor of personal computers or smartphones.
+*** [[id:8fcf5e90-40f7-45e1-bb00-f09da5578d02][Social Media]]
+*** Assistive Media
+:PROPERTIES:
+:ID:       e4aef5a4-2b29-4747-906d-e78a199a1fdf
+:END:
++ is a nonprofit service designed to help people who have _visual and reading impairments_.
++ A database of audio recordings is used to read to the user.
+**** Speech-to-text
+:PROPERTIES:
+:ID:       b70a3698-e59e-4823-98ef-39b7c0e90995
+:END:
+- Dragon NaturalSpeaking
+- Dragon Dictate for Mac
+- wordQ + speakQ
+- TalkTyper
+- Windows Speech Recognition
+- Mac OS X Dictation
+**** Text-to-speech
+:PROPERTIES:
+:ID:       a32d59f6-4df7-4d9d-963b-e8fba8616502
+:END:
+- NaturalReader
+- Kurzweil 3000
+- Read & Write Gold
+- WYNN
+- Mac OS X TTS
+**** Study Skills
+:PROPERTIES:
+:ID:       94610553-f3fa-4e52-a4f0-8039327d3225
+:END:
+- Kurzweil 3000
+- Read & Write Gold
+- WYNN
+
+*** [[id:c99f4906-688f-40e3-a1d4-94c7191e2e85][Mobile Technologies]]
+* Systems, Functions and Platforms
+:PROPERTIES:
+:ID:       c3a7355d-aef6-4725-9492-2029e6ed2b79
+:END:
+** Online Systems
+:PROPERTIES:
+:ID:       4d9d5585-bceb-482a-a61b-28696cdb791c
+:END:
++ A system that is connected to the Internet.
++ An offline system would be a system that is disconnected from the Internet.
+** Online Functions
+:PROPERTIES:
+:ID:       40d093a9-9e7a-4bc0-9fd8-dfeb67b0c7d6
+:END:
++ include _email notifications_ from the server, the _updating of web blacklists_ (lists of undesirable websites), _updating of the list_ of file-sharing programs, and _remote access_ to Child.
+- pretty much anything that requires the access to Web or API calls.
+
+** Online Platforms
+:PROPERTIES:
+:ID:       9f6f5bec-eb28-463d-b4b4-bce6f1631fd2
+:END:
++ an _online marketplace_ that places one party in touch with another, such as buyers and sellers.
+*** Categories
+- Social Media
+- Search Engines
+- Communications Services
+- Payment Systems
+- Advertising Platforms
+- Creative Content Outlets

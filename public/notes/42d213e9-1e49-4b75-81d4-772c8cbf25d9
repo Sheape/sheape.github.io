@@ -1,0 +1,29 @@
+* Differences
+:PROPERTIES:
+:ID:       42d213e9-1e49-4b75-81d4-772c8cbf25d9
+:END:
+** Prokaryotes
+:PROPERTIES:
+:ID:       c3cf435a-db00-46b4-a99f-149f72e441d6
+:END:
+- [[id:8eafc07d-e1c4-4365-9e29-d4a1209cec26][Organelles]] lack a membrane.
+- [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosomes]] are the only organelles.
+- Genetic material floats in the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]] ([[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] and RNA).
+- *Circular* DNA
+- _Unicellular_
+- Cells are smaller in size.
+- Has larger number of organisms.
+- Appeared _4 billion_ years ago.
+** Eukaryotes
+:PROPERTIES:
+:ID:       76af2a69-042f-4bd8-8633-727fb0971e98
+:END:
+- [[id:8eafc07d-e1c4-4365-9e29-d4a1209cec26][Organelles]] covered by a [[id:79fc987e-0158-4755-a44f-426f769c5237][membrane]].
+- Multiple organelles including [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][ribosomes]].
+- Membrane covered genetic material.
+- *Linear* DNA
+- May be _multicellular_ or _unicellular_.
+- Cells are laregr in size.
+- Has smaller number of organisms.
+- Appeared _1 billion_ years ago.
+

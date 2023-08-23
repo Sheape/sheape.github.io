@@ -1,0 +1,289 @@
+:PROPERTIES:
+:ID:       43e3dbd0-c650-491a-9ac1-b08e88967792
+:END:
+#+title: Cell Structure
+#+author: Paul Gerald D. Pare
+#+date: August 03, 2023
+
+* Organelles
+:PROPERTIES:
+:ID:       8eafc07d-e1c4-4365-9e29-d4a1209cec26
+:END:
+- Little organs that carry out specialized functions.
+- Cellular machinery.
+* Prokaryotic organelles
+:PROPERTIES:
+:ID:       0b7ad370-15f6-4cc4-9d1a-0af6ba94d760
+:END:
+[[file:prokaryotic-organelles.png]]
+- Also called _no membrane-bound organelles_.
+- These are /organelles/ that are not inside of a membrane of a cell.
+** Plasma/Cell Membrane
+:PROPERTIES:
+:ID:       79fc987e-0158-4755-a44f-426f769c5237
+:SOURCE:   Youtube
+:SOURCE_LINK: https://www.youtube.com/watch?v=DyxHF0qUnjs
+:END:
+- It seperates what's inside and outside of the cell.
+- They let some things through such as food and energy, but also defends itself from the environment and other cells.
+- It is made of _phospholipid bilayer_ and the different types of proteins floating around it.
+- The cell membrane is *semi-permeable*.
+*** Phospholipids
+:PROPERTIES:
+:ID:       4f0c1142-f8f3-4acf-acdd-73370a4d522e
+:END:
+- class of lipids that are major component of all cell membranes.
+** Cell Wall
+:PROPERTIES:
+:ID:       c38e3073-0414-4c8b-bc9b-6ca38c5299cc
+:END:
+- Outer layer of [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]].
+- Made up of _peptidoglycan_, a polymer of sugars and amino acids that creates a mesh-like layer around the cell.
+- Its function is to provide additional protection for the cell.
+*** Plants
+- It is in the cellulous.
+*** Fungi
+- contain _chitin_.
+** Capsule
+:PROPERTIES:
+:ID:       35745c84-d4fc-4ac1-8e63-a41c080bec24
+:END:
+- The outermost layer of the cell that provides the cover for the cell wall.
+** Cytoplasm
+:PROPERTIES:
+:ID:       e3f8accc-0bd5-47c6-8268-b0fb72e873d4
+:END:
+- The interior of the cell is called the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]].
+- Specifically, the fluid within the membrane is called _cytosol_.
+- Its a jelly-like fluid where all inside components are floating around.
+*** Components
+:PROPERTIES:
+:ID:       466bebab-56b2-4b08-8b83-31c6ae2a4787
+:END:
+- _Cytosol_
+- Interconnected filaments & fibers.
+- storage substances.
+** Nucleoid
+:PROPERTIES:
+:ID: 7f1daebc-e643-4712-b95e-2f5320aade81
+:END:
+- Similar to the nucleus in a eukaryotic cell, this holds genetic information about the cell.
+- The [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosome]] is responsible for the DNA transcription to happen.
+** Plasmid
+:PROPERTIES:
+:ID:       a98ea156-2bce-4285-8ebd-d974a87e7f47
+:END:
+- A small, _extrachromosomal DNA_ that is physicall seperated from the cell's DNA.
+- It can replicate independently and is also vital for the survival of a cell or organism.
+** Ribosomes
+:PROPERTIES:
+:ID: 4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13
+:END:
+#+TODO: brb to this
+- Sites of *protein synthesis*.
+- They are responsible for protein production as a product of DNA transcription.
+- It does this by binding itself to _mRNA (messenger RNA)_ to determine the correct sequence of amino acids.
+- The DNA translation provides the _protein_ (that includes enzymes from the DNA) and _DNA polymerase_.
+- The process also provides _hexokinase_ which has a role in metabolism that provides the energy needed for the cell to function.
+  - You can compare this to mitochondria in the eukaryotic cells.
+** [[id:a3e8779a-2286-4862-ac3a-487fdf2a5bf8][Chromosomes]]
+** Flagellum
+:PROPERTIES:
+:ID:       dcdb03d3-2550-4802-aaa0-73ce6ecb83bb
+:END:
+[[file:../w2/flagella.png]]
+- Plural-form /Flagella/.
+- Whip-like extensions that allows a cell to move.
+- Found on *sperm* cells.
+  + plenty of [[id:d5972910-a234-4998-9327-9a1a0ecaa566][mitochondria]].
+- A hairlike appendage that has a couple of functions for motility.
+- The bacteria uses their flagella to:
+  - move in fluid (/motility/),
+  - in response to changes in concentration of chemical (/chemotaxis/)
+  - movement in response to light (/phototaxis/) or movement in response to oxygen levels (/aerotaxis/)
+  - helps in colonizing and infecting host organisms.
+*** Types
+1. Bacterial flagella
+2. Archaeal flagella
+** Cilia
+:PROPERTIES:
+:ID:       38a42ec3-0bf7-4b92-adcc-c70b369f695a
+:END:
+- Latin word for "eyelashes".
+- _tiny hairs_ on the surface of certain cells.
+- move in a rhythmic, sweeping motion and serve to move particles or cells in
+  your body.
+- cilia lining in respiratory tract.
+- *Tracheal* cells
+- Beat and drive air impurities or foreign particles and mucus up the trachea to
+  the mouth
+- Short
+- Used to move substances outside human cells.
+* Eukaryotic organelles
+:PROPERTIES:
+:ID:       0c21cce1-a0d6-4f3c-adf2-fd13f9528c13
+:END:
+** Interior Structures
+:PROPERTIES:
+:ID:       1f2438c5-2c64-44f1-8772-7e75f5bb8832
+:END:
+*** [[id:436e0249-34bb-4171-95c3-c164d97d86eb][Nucleus]]
+*** [[id:4b481e49-21ba-455f-8268-888812e84a6c][Nucleolus]]
+*** Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       73023bd0-4849-40ca-97d4-d1d7e6a617e5
+:END:
+- also called *ER*.
+- network of interconnected membranes.
+- it helps move substances within cells.
+**** Types
+:PROPERTIES:
+:ID:       89727c8d-e5b0-4b69-950b-d99ea41a506a
+:END:
+***** Rough Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       2e992de6-7a7f-4121-9932-a147431fe95b
+:END:
+[[file:rough_er.png]]
+- Ribosomes attached to surface
+- Manufacture proteins
+- Ribosomes not permanently attached to Rough ER
+- May modify proteins from [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][ribosomes]]
+***** Smooth Endoplasmic Reticulum
+:PROPERTIES:
+:ID:       c56fa34d-1079-4a27-b99a-2d2d5f49ce76
+:END:
+[[file:smooth_er.png]]
+- _No attached_ ribosomes
+- Has enzymes that help build molecules
+- Contains *Lipids*
+*** Golgi Apparatus
+:PROPERTIES:
+:ID:       a3e785d5-cda5-4c0c-8464-bc542baea2e0
+:END:
+[[file:golgi_apparatus.png]]
+- Sorts proteins made by the ribosomes and sends them to needed places in the
+  cell.
+- "the cell's post office"
+- _Packaging_ & shipping station of cell.
+*** Lysosomes
+:PROPERTIES:
+:ID:       777764bb-51eb-431a-8ffa-9571dce244b6
+:END:
+- organelles that are filled with digestive enzymes to remove waste and invading
+  bacteria.
+- Cell's suicide bags.
+**** Functions
+:PROPERTIES:
+:ID:       75a54e75-16b6-4d92-8abc-01da22ae6227
+:END:
+- Aid in cell renewal.
+- Break down old cell parts.
+- Digests invaders.
+*** Vacuoles
+:PROPERTIES:
+:ID:       69113f51-005e-4255-8d3d-22fee2b54bfd
+:END:
+- fluid filled organelles enclosed by a membrane.
+- Membrane bound storage sacs
+- Store materials such as food, sugar, water, and waste products
+- More common in *plants* than animals.
+*** Mitochondria
+:PROPERTIES:
+:ID:       d5972910-a234-4998-9327-9a1a0ecaa566
+:END:
+- "*powerhouse*" of the cell.
+- release energy for the cell.
+- converts the energy stored in glucose into *ATP* for the cell.
+- bound by _double membrane_.
+*** [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosomes]]
+*** Chloroplasts
+:PROPERTIES:
+:ID:       978ca8b9-abc9-4d0e-ac9b-d28707e5edf8
+:END:
+- Primary organelles for
+Photosynthesis - *chlorophyll*
+- captures _light energy_ and converts it into _chemical energy_ through the process
+  of [[id:e4ab4621-370f-4aed-bb2c-01b9e16e70ec][photosynthesis]].
+- Solar energy capturing organelle
+- absorbs all other colors except green.
+**** Photosynthesis
+:PROPERTIES:
+:ID:       e4ab4621-370f-4aed-bb2c-01b9e16e70ec
+:END:
+- Used by plants and other organisms to convert light energy into chemical energy
+- Energy Transformation
+- Takes place in the [[id:978ca8b9-abc9-4d0e-ac9b-d28707e5edf8][chloroplast]].
+- Makes cellular food called *glucose*.
+***** Equation
+$6CO_{2} + 6H_{2}O \xrightarrow{\text{Light}} C_{6}H_{12}O_{6} + 6O_{2}$
+*** Cytoskeleton
+:PROPERTIES:
+:ID:       cbc90f10-32b0-4953-8848-f0943c707de8
+:END:
+[[file:cytoskeleton.png]]
+- network of protein filaments, fibers and tubules.
+**** Functions
+:PROPERTIES:
+:ID:       7a03de9f-401b-4694-9991-40b7319cd418
+:END:
+- mechanical support
+- anchor organelles
+- it helps in moving substances
+**** Composition
+:PROPERTIES:
+:ID:       78531923-0edd-4f19-8367-a6273c236d64
+:END:
+***** Microfilaments
+:PROPERTIES:
+:ID:       d2418519-8b65-4437-a9f5-94f45ba6720e
+:END:
+- *thinnest*
+- composed of the protein /actin/.
+***** Microtubules
+:PROPERTIES:
+:ID:       3fa51318-5c78-4913-9816-32664f2698ad
+:END:
+- composed of protein /tubulin/
+- It is involved in nucleic and cell division, organization of intracellular
+  structure, and intracellular transport, as well as ciliary and flagellar
+  motility
+***** Intermediate filaments
+:PROPERTIES:
+:ID:       9ec7956b-158b-4640-9cba-e0408f1361f6
+:END:
+- maintain cell shape and help bind some cells together.
+*** [[id:c38e3073-0414-4c8b-bc9b-6ca38c5299cc][Cell Wall]]
+*** [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]]
+*** [[id:dcdb03d3-2550-4802-aaa0-73ce6ecb83bb][Flagellum]]/[[id:38a42ec3-0bf7-4b92-adcc-c70b369f695a][Cilia]]
+* Comparison of Structure
+:PROPERTIES:
+:ID:       493a99cd-65ff-40ea-ba5e-c54f909ce3f9
+:END:
+|-----------------------+-----------+--------+-------|
+|                       | Bacterium | Animal | Plant |
+|-----------------------+-----------+--------+-------|
+| Exterior Structures   |           |        |       |
+|-----------------------+-----------+--------+-------|
+| Cell Wall             | \check         | ✗      | \check     |
+| Plasma Membrane       | \check         | \check      | \check     |
+| Flagella (cilla)      | \ndash         | ✗      | [1]   |
+|-----------------------+-----------+--------+-------|
+| Interior Structure    |           |        |       |
+|-----------------------+-----------+--------+-------|
+| Endoplasmic Reticulum | ✗         | \uarr      | \uarr     |
+| Microtubules          | ✗         | \check      | \check     |
+| Centrioles            | ✗         | \check      | ✗     |
+| Golgi Apparatus       | ✗         | \check      | \check     |
+| Nucleus               | ✗         | \check      | \check     |
+| Mitochondria          | ✗         | \check      | \check     |
+| Chloroplasts          | ✗         | ✗      | \check     |
+| Chromosomes           | [2]       | [3]    | [3]   |
+| Ribosomes             | \check         | \check      | \check     |
+| Lysosomes             | ✗         | \check      | \check     |
+| Vacuoles              | ✗         | ✗ or \ndash    | [4]   |
+|-----------------------+-----------+--------+-------|
+- [1] Sperm of a few species possess flagella.
+- [2] A single circle of naked DNA.
+- [3] Multiple units, DNA associated with protein.
+- [4] Usually a large single vacuole in a mature cell.

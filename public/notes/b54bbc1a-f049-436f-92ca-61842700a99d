@@ -1,0 +1,32 @@
+** Derived Units
+:PROPERTIES:
+:ID:       b54bbc1a-f049-436f-92ca-61842700a99d
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/International_System_of_Units#Derived_units
+:END:
+|----------------------------+----------------+--------|
+| Quantity                   | Unit           | Symbol |
+|----------------------------+----------------+--------|
+| plane angle                | radian         | /rad/    |
+| solid angle                | steradian      | /sr/     |
+| frequency                  | hertz          | /Hz/     |
+| force/weight               | newton         | /N/      |
+| pressure/stress            | pascal         | /Pa/     |
+| energy/work/heat           | joule          | /J/      |
+| power/radiant flux         | watt           | /W/      |
+| electric charge            | coulomb        | /C/      |
+| electric potential/voltage | volt           | /V/      |
+| capacitance                | farad          | /F/      |
+| resistance                 | ohm            | /Ω/      |
+| electrical conductance     | siemens        | /S/      |
+| magnetic flux              | weber          | /Wb/     |
+| magnetic flux density      | tesla          | /T/      |
+| inductance                 | henry          | /H/      |
+| temperature                | degree Celcius | /°C/     |
+| luminous flux              | lumen          | /lm/     |
+| illuminance                | lux            | /lx/     |
+| radionuclide               | becquerel      | /Bq/     |
+| absorbed dose              | gray           | /Gy/     |
+| equivalent dose            | sievert        | /Sv/     |
+| catalytic activity         | katal          | /kat/    |
+|----------------------------+----------------+--------|

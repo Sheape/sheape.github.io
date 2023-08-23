@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       59523823-81e7-4f8d-a6c7-985acc2325f8
+:END:
+#+title: Muscle Tissues
+#+author: Paul Gerald D. Pare
+#+date: August 20, 2023
+
+* Definition
+- These tissues are composed of long cells called muscle fibers that allow the
+  body to move voluntary or involuntary. Movement of muscles is a response to
+  signals coming from nerve cells.
+* Types
+:PROPERTIES:
+:ID:       8568867d-5808-4cd1-bcfa-e172cf257d91
+:END:
+** Skeletal
+:PROPERTIES:
+:ID:       f7fbb83e-35d7-44db-9cd3-6ecd1cc26892
+:END:
+[[file:skeletal.png]]
+- *striated*
+- _voluntary_ movements
+** Cardiac
+:PROPERTIES:
+:ID:       7c3c3d0d-2c3f-4184-bacc-adf0ed92834d
+:END:
+[[file:cardiac.png]]
+- striated with *intercalated disc* for synchronized heart contraction
+- _involuntary_
+** Smooth
+:PROPERTIES:
+:ID:       70331ccb-0cf0-4f7c-ad84-043eed0d77be
+:END:
+[[file:smooth.png]]
+- not striated
+- _involuntary_

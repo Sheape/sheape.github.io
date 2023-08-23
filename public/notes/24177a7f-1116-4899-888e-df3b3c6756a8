@@ -1,0 +1,21 @@
+** Rules when calculating
+:PROPERTIES:
+:ID:       24177a7f-1116-4899-888e-df3b3c6756a8
+:END:
+*ALWAYS* the /least/.
+1. When adding or subtracting, use the fewest number of decimal places.
+#+begin_example
+   10.1 -> 1 decimal place
+\+ 7.43 -> 2 decimal places
+---------
+   17.5 -> 1 decimal place
+#+end_example
+
+2. When multiplying or dividing, use the fewest number of significant figures.
+#+begin_example
+   4.93  -> 3 significant figures
+x  6.027 -> 4 significant figures
+---------
+   29.7  -> 3 significant figures
+#+end_example
+

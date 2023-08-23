@@ -1,0 +1,111 @@
+:PROPERTIES:
+:ID:       543a6636-c84e-4bc9-b85b-7996b4cea2e1
+:END:
+#+title: Terms
+#+author: Paul Gerald D. Pare
+#+date: August 16, 2023
+
+* Kinematics
+- *Kinematics* is a quantitative description of motion _without reference_ to its
+  _physical causes_.
+* Inertia
+:PROPERTIES:
+:ID:       dd051025-ebab-431e-a684-324c3973dc20
+:END:
+- the *capacity* of an object to resist changes in motion.
+- resistance to motion.
+- proportional to the *mass* of an object.
+- more mass $\propto$ more inertia
+* Translation
+:PROPERTIES:
+:ID:       91d1c7b5-bcb6-4c52-9247-e57f54645dc1
+:END:
+- *Translation* is the physical term for straight-line motion.
+* Position
+:PROPERTIES:
+:ID:       210a5443-7d4b-4680-9b71-8d7fc24071fe
+:END:
+- *Position* refers to the location of an object with respect to some _reference frame_.
+* Reference Frame
+:PROPERTIES:
+:ID:       21e44f52-3317-4c82-a458-118d0b25ec96
+:END:
+- *Reference frame* is a physical entity to which motion or position of an object
+  is being referred.
+* Distance
+:PROPERTIES:
+:ID:       3a7d04d6-efac-4205-bc30-c05689c3dbb8
+:END:
+- *Distance* /d/ refers to the actual length of path taken by an object in which
+  moving from its _initial position_ to its _final position_.
+  - it is a [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][scalar]] quantity.
+* Displacement
+:PROPERTIES:
+:ID:       6932631c-365d-4d5a-a04c-cb07f308b00d
+:END:
+- *Displacement* /x/ refers to straight-line distance between it initial and final
+  positions, with direction toward the final position.
+  - it is a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+** Formula
+\begin{align*}
+& x = \iint \vec{a}\, dt\, dt \\
+& x = \int\vec{v}\, dt
+\end{align*}
+* Speed
+:PROPERTIES:
+:ID:       772e3044-92d2-47e2-b7dc-48f65c642570
+:END:
+- *Speed* is the [[id:3a7d04d6-efac-4205-bc30-c05689c3dbb8][distance]] that a body moves in a unit time.
+- Since distance is scalar quantity. Speed is also a [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][scalar]] quantity.
+** Formula
+\begin{align*}
+& s = \frac{d}{t} \\
+& s = \frac{d}{dt}(l)
+\end{align*}
+- where $l$ is the length of path or /distance/.
+* Instantaneous Speed
+:PROPERTIES:
+:ID:       6feaaa86-9d33-417e-88be-cff0042b0bfb
+:END:
+- The *instantaneous speed* of an object is its speed at a particular instant of
+  time, with it being extremely small.
+- The speed indicated by a speedometer is instantaneous speed.
+* Velocity
+:PROPERTIES:
+:ID:       a7977a7d-2910-471c-a0c1-58a7f58daa54
+:END:
+- When the speed of a body is associated with a _direction_, the result is the
+  velocity of the body.
+- Velocity is [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+- The speed of the body is the magnitude of its velocity.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] for [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] and [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] is _meter per second_, m/s.
+- *Average velocity* is total displacement divided by total time.
+- It can change in _3 ways_: change in [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] (/increase or decrease/), change
+  in _direction_, change in [[id:772e3044-92d2-47e2-b7dc-48f65c642570][speed]] as well as direction.
+- The *derivative* of velocity with respect to time is [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][acceleration]].
+** Formula
+- Other formulas that we may use in certain cases:
+\begin{align*}
+& v = \int \vec{a}\, dt \\
+& v = \frac{dx}{dt} \\
+& v = \frac{total\ displacement}{total\ time}
+\end{align*}
++ $x$ is [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]]
+* Instantaneous Velocity
+:PROPERTIES:
+:ID:       d6fc47b7-859d-4aea-982d-2b8d06e7f823
+:END:
+- Instantaneous velocity is the [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] at an instant of time.
+* Acceleration
+:PROPERTIES:
+:ID:       bbe2b7b4-6392-441c-b597-f38a51d66d7d
+:END:
+- *Acceleration* is change in [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]] with respect to time.
+- It is also a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of acceleration is _meter per second per second_, m/s/s or $m/s^2$
+** Formula
+\begin{align*}
+& a = \frac{d}{dt}(\vec{v}) \\
+& a = \frac{d^2x}{dt^2} \\
+& A = \frac{velocity}{time}
+\end{align*}

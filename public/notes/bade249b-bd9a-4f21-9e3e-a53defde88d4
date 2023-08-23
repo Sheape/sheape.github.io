@@ -1,0 +1,13 @@
+* Second Law of Motion
+:PROPERTIES:
+:ID:       bade249b-bd9a-4f21-9e3e-a53defde88d4
+:END:
+- also called Law of [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]].
+$a \propto\frac{F}{m}$
+- continues what the [[id:10a192ca-e7c6-4519-93f8-f3cdace33a1e][first law of motion]] told us. When a net force is applied,
+  it produces [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][acceleration]].
+- This law tells us that $F = ma$ that came from $F = \frac{d}{dt}(mv)$
+- Deriviation of [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of force:
+  - $1N = (1kg)(1 m/s^2)$ or
+  - $1N = 1\frac{kg\cdot m}{s^2}$
+- Use $kg$ for mass; weight in $N$.

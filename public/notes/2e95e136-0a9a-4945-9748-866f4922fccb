@@ -1,0 +1,22 @@
+** Common Units
+:PROPERTIES:
+:ID:       2e95e136-0a9a-4945-9748-866f4922fccb
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/Metric_system#Common_metric_systems
+:ROAM_ALIASES: "SI Unit"
+:END:
+|--------------------------------------+------------------+--------|
+| Quantity                             | Unit             | Symbol |
+|--------------------------------------+------------------+--------|
+| distance (/d/), length (/l/), height (/h/) | metre            | /m/      |
+| mass (/m/)                             | kilogram         | /kg/     |
+| time (/t/)                             | second           | /s/    |
+| speed (/v/), velocity (/v/)              | metre/second     | /m/s/  |
+| acceleration (/a/)                     | (metre/second)^2 | $m/s^2$ |
+| force (/F/)                            | newton           | /N/      |
+| pressure (/P/ or /p/)                    | pascal           | /Pa/     |
+| energy (/E/, /Q/, /W/)                     | joule            | /J/      |
+| power (/P/)                            | watt             | /W/      |
+| viscosity (/μ/)                        | Pascal * second  | /Pa⋅s/   |
+|--------------------------------------+------------------+--------|
+

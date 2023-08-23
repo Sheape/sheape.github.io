@@ -1,0 +1,14 @@
+* Horizontal Equilibrium
+:PROPERTIES:
+:ID:       558b93f5-6260-43b8-a702-b6c0734d8ea0
+:END:
+- It is the sum of horizontal forces acting on the object.
+- For horizontal equilibrium, the applied force and friction should balance each other out.
+- $\sum\vec{F_x} = F_a - f$
+  + $\sum\vec{F_x}$ represents the sum of horizontal forces.
+  + $F_a$ is an applied force externally acting horizontally.
+  + $f$ represents friction, which opposes motion.
+  + If pulling force $F_a < friction\ f$ then furniture is at rest otherwise it
+    will move to the right.
+- $\sum\vec{F}_x = P_x - f$
+  + $P_x$ is any horizontal force component applied to the object.

@@ -1,0 +1,11 @@
+--- Link.tsx
++++ Link.tsx
+@@ -151,7 +151,7 @@ export const PreviewLink = (props: LinkProps) => {
+   const extraNoteStyle = outline ? outlineNoteStyle : viewerNoteStyle
+   console.log(previewNode)
+   const getText = () => {
+-    fetch(`http://localhost:35901/node/${id}`)
++    fetch(`notes/${id}`)
+       .then((res) => {
+         return res.text()
+       })

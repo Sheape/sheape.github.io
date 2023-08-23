@@ -1,0 +1,14 @@
+** Sine Law
+:PROPERTIES:
+:ID:       4c8b8d54-2f24-41d6-8008-8d6ef5e2a573
+:END:
+- use it when you are given pretty much anything but be careful when given 3
+  sides and one angle.
+- Note: The range of $sin^{-1}(x)\ |\ R = \{ -\frac{\pi}{2}, \frac{\pi}{2} \}$ so
+  any angle larger than $90^{\circ}$ or $\frac{\pi}{2}$, we cannot use sine law for this.
+  - If you know that the angle is larger than $90^{\circ}$, then subtract the result
+    to $180^{\circ}$.
+Formulas:
+\begin{equation*}
+\frac{a}{sinA} = \frac{b}{sinB} = \frac{c}{sinC}
+\end{equation*}

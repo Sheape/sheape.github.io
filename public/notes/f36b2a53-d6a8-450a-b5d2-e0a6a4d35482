@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       f36b2a53-d6a8-450a-b5d2-e0a6a4d35482
+:END:
+#+title: Nervous Tissues
+#+author: Paul Gerald D. Pare
+#+date: August 20, 2023
+
+* Definition
+[[file:nervous_tissues.png]]
+- These tissues are composed of nerve cells called [[id:7d2dab7d-f579-4326-8bb4-80bdfd41ba00][Neurons]] and _glial cells_ that
+  function as support cells.
+- These neurons sense stimuli and transmit electrical signals throughout the
+  animal body.
+* Neurons
+:PROPERTIES:
+:ID:       7d2dab7d-f579-4326-8bb4-80bdfd41ba00
+:END:
+[[file:neuron.png]]
+- it connects to other neurons to send signals.
+** Dendrite
+:PROPERTIES:
+:ID:       f16726b6-71e5-43d1-9413-5c0c35ad94b1
+:END:
+- part of the neuron that receives impulses from other neurons
+** Axon
+:PROPERTIES:
+:ID:       81d2c701-7ce5-491d-9cf3-41de5da45be0
+:END:
+- part where the impulse is transmitted to other neurons.

@@ -1,0 +1,13 @@
+** Opposite Direction
+:PROPERTIES:
+:ID:       a5cfe180-c82a-449a-9203-dc15ef3a564c
+:END:
+- The magnitude of the resultant vector is given by the _arithmetic difference_ of
+  the magnitudes of the individual vectors. The direction follows that of the
+  vector with *bigger magnitude*.
+*** Given
+$\vec{A} = 15\ m,\ North$
+$\vec{B} = 28\ m,\ South$
+[[file:analytical_method_opposite.png]]
+$15\ m/s,\ North + 28\ m/s,\ South \rightarrow \vec{R} = 13\ m\ South$
+

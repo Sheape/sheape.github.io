@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       68e47822-b984-469d-ae2e-2522b9ea1aee
+:END:
+#+title: Graphical Method
+#+author: Paul Gerald D. Pare
+#+date: August 16, 2023
+
+* Polygon Method
+:PROPERTIES:
+:ID:       be5d45ca-d22c-4046-b5af-2ed4518c56c2
+:END:
+[[file:polygon_method.png]]
+** Steps
+:PROPERTIES:
+:ID:       5f12fa2e-ead1-4c2d-b66b-ef14e9e82ff9
+:END:
+1. Draw the _first vector_ with the proper length
+    and orientation.
+2. Draw the _second vector_ with the proper length
+    and orientation originating from the head of
+    the first vector.
+3. The _resultant vector_ is the vector originating
+    at the tail of the first vector and terminating
+    at the head of the second vector.
+4. Measure the length and orientation angle of
+    the resultant.
+* Parallelogram Method
+:PROPERTIES:
+:ID:       f361113b-94d6-4baa-969e-d144a24251b7
+:END:
+[[file:parallelogram_method.png]]
+** Steps
+:PROPERTIES:
+:ID:       6810edb2-372d-462b-837f-7947c63a1671
+:END:
+1. Draw both vectors with proper length and
+    orientation originating from the same point.
+2. Complete a parallelogram using the two
+    vectors as two of the sides.
+3. Draw the resultant vector as the diagonal
+    originating from the tails.
+4. Measure the length and angle of the
+    resultant vector.

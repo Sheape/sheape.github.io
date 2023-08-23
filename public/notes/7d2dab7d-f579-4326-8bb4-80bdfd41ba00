@@ -1,0 +1,16 @@
+* Neurons
+:PROPERTIES:
+:ID:       7d2dab7d-f579-4326-8bb4-80bdfd41ba00
+:END:
+[[file:neuron.png]]
+- it connects to other neurons to send signals.
+** Dendrite
+:PROPERTIES:
+:ID:       f16726b6-71e5-43d1-9413-5c0c35ad94b1
+:END:
+- part of the neuron that receives impulses from other neurons
+** Axon
+:PROPERTIES:
+:ID:       81d2c701-7ce5-491d-9cf3-41de5da45be0
+:END:
+- part where the impulse is transmitted to other neurons.

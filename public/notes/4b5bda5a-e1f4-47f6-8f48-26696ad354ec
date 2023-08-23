@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b5bda5a-e1f4-47f6-8f48-26696ad354ec
+:END:
+#+title: Cell Cycle
+#+author: Paul Gerald D. Pare
+#+date: August 21, 2023
+
+* Definition
+[[file:cell_cycle.png]]
+- an _ordered series of events_ involving cell growth and cell division that
+  produces two new daughter cells.
+- Cells that are going to divide proceed through a _series of precisely timed_ and
+  carefully regulated stages of growth:
+  + That producess two *identical* (clone) cells.
+    + DNA Replication
+    + Cell Division
+* Major Phases
+:PROPERTIES:
+:ID:       4ff51917-916d-4c7e-9307-ea696825af66
+:END:
+** [[id:5588bdc0-0d35-4a3d-a9f8-449a13e344c3][Interphase]]
+** [[id:61e55360-9e77-4920-9fe7-7f946ba22c65][Mitotic Phase]]

@@ -1,0 +1,12 @@
+** Uniform Motion
+:PROPERTIES:
+:ID:       176ab3f2-93b5-46f0-be99-fb235ceb2124
+:END:
+- *Simplest* type of motion.
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is /constant/.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /zero/. $A = 0$
+- [[id:d6fc47b7-859d-4aea-982d-2b8d06e7f823][Instantaneous Velocity]] is equal to average velocity. $V_I = V_a$
+- Its [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]] $d_x$ may be obtained by multiplying its constant velocity
+  /v/ by the time.
+Formula:
+$d_x = vt$

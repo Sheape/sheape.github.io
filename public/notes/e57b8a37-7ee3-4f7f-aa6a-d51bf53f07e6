@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       e57b8a37-7ee3-4f7f-aa6a-d51bf53f07e6
+:END:
+#+title: G2 Phase
+#+author: Paul Gerald D. Pare
+#+date: August 21, 2023
+
+* Definition
+:PROPERTIES:
+:ANKI_NOTE_ID: 1692667102937
+:END:
+- The cell *replenishes* its _energy stores_ and _synthesizes proteins_ called /Tubulin
+  dimers/ necessary for
+  chromosome manipulation.
+- The preparation phase before [[id:61e55360-9e77-4920-9fe7-7f946ba22c65][Mitosis]].
+- Some cell organelles are duplicated, and the [[id:cbc90f10-32b0-4953-8848-f0943c707de8][cytoskeleton]] is dismantled to
+  provide resources for the mitotic phase.
+- Additional _cell growth_ may occur.
+- Cell increase in *size* and *volume*.
+* Checkpoints
+:PROPERTIES:
+:ID:       48a237c2-6d34-497c-bbb1-1aae2329309a
+:END:
+- It is the [[id:e57b8a37-7ee3-4f7f-aa6a-d51bf53f07e6][G2 Phase]]/Mitosis (G/M) Transition.
+- Ensures that all [[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] are completely and correctly replicated.
+- Damages to replicated DNA are checked.
+- Cell proceeds to [[id:61e55360-9e77-4920-9fe7-7f946ba22c65][M phase]] if cell size and nutrients are sufficient.
+** Stimulating Protein
+:PROPERTIES:
+:ID:       ddeced8f-ae50-4c3e-92c5-a3ea3d24f6b6
+:END:
+- _Cyclin_ and _Cyclin-dependent kinases_ (CDK).
+** Inhibiting Protein
+:PROPERTIES:
+:ID:       8a9a6ae0-6f0f-49b1-b745-451b7d50bb5f
+:END:
+- _p53_ protein.

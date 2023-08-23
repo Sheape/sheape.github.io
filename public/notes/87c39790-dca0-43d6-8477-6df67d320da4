@@ -1,0 +1,68 @@
+:PROPERTIES:
+:ID:       87c39790-dca0-43d6-8477-6df67d320da4
+:END:
+#+title: Prokaryotic and Eukaryotic Cells
+#+author: Paul Gerald D. Pare
+#+date: August 20, 2023
+#+GIT_COMMIT_MSG: Q1W2(Biology): Prokaryotic and Eukaryotic Cells
+
+* [[id:aa29ef16-ec9b-4d04-9c5a-f36275ddf320][Prokaryotic cells]]
+* [[id:be529198-40bb-45a3-b440-20ffb51d6f97][Eukaryotic Cells]]
+* Endosymbiont Theory
+:PROPERTIES:
+:ID:       abe0da47-1911-43d4-935e-5358dfc167be
+:END:
+- many scientists theorize that eukaryotes evolved from prokaryote ancestors.
+- in _1981_, *Lynn Margulis* popularized the "/endosymbiont theory/".
+- "/Endo/" - inside
+- "/Symbiont/" - friend
+** How it works?
+:PROPERTIES:
+:ID:       5fb3a620-0662-4151-b90e-7cd4717f64c3
+:END:
+- a prokaryote ancestor "eats" a smaller prokaryote
+- the smaller prokaryote evolves a way to avoid being digested, and lives inside
+  its new "/host/" cell kind of like a pet.
+- the small prokaryotes that can do _photosynthesis_ evolve into *chloroplasts*, and
+  "/pay/" their host with glucose.
+- The smaller prokaryotes that can do _aerobic_ respiration evolve into
+  *mitochondria*, and convert the _glucose_ into energy the cell can use.
+- Both the host and the symbiont benefit from the relationship.
+
+* Differences
+:PROPERTIES:
+:ID:       42d213e9-1e49-4b75-81d4-772c8cbf25d9
+:END:
+** Prokaryotes
+:PROPERTIES:
+:ID:       c3cf435a-db00-46b4-a99f-149f72e441d6
+:END:
+- [[id:8eafc07d-e1c4-4365-9e29-d4a1209cec26][Organelles]] lack a membrane.
+- [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosomes]] are the only organelles.
+- Genetic material floats in the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]] ([[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]] and RNA).
+- *Circular* DNA
+- _Unicellular_
+- Cells are smaller in size.
+- Has larger number of organisms.
+- Appeared _4 billion_ years ago.
+** Eukaryotes
+:PROPERTIES:
+:ID:       76af2a69-042f-4bd8-8633-727fb0971e98
+:END:
+- [[id:8eafc07d-e1c4-4365-9e29-d4a1209cec26][Organelles]] covered by a [[id:79fc987e-0158-4755-a44f-426f769c5237][membrane]].
+- Multiple organelles including [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][ribosomes]].
+- Membrane covered genetic material.
+- *Linear* DNA
+- May be _multicellular_ or _unicellular_.
+- Cells are laregr in size.
+- Has smaller number of organisms.
+- Appeared _1 billion_ years ago.
+
+* Similarities
+:PROPERTIES:
+:ID:       bbb0262a-fc67-4e13-b9c4-b05d56cb2d28
+:END:
+- Both types of cells have [[id:79fc987e-0158-4755-a44f-426f769c5237][Plasma/Cell Membrane]] (outer covering of the cell)
+- Both types of cells have [[id:4597c2d5-0e84-4ac5-ac3c-2d0b69f25e13][Ribosomes]]
+- Both types of cells have [[id:50dafb4b-b27e-4dcb-b11c-df35975ea191][DNA]]
+- Both types of cells have a liquid environment known as the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][Cytoplasm]].

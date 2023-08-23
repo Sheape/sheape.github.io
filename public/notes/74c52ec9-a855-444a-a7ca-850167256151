@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       74c52ec9-a855-444a-a7ca-850167256151
+:END:
+#+title: Software as a Service
+#+author: Paul Gerald D. Pare
+#+date: August 06, 2023
+
+* Definition
++ *Software as a Service (Saas)*
++ Users will _subscribe_ to a software only when needed rather than purchasing them.
++ This is a cheaper option if you do not always need to use a software.
+* Wikipedia
+:PROPERTIES:
+:SOURCE:   Wikipedia
+:SOURCE_LINK: https://en.wikipedia.org/wiki/Software_as_a_service
+:END:
++ is a *software licensing* and *delivery* model in which software is licensed on a _subscription basis_
++ It is also _centrally hosted_.
++ also known as *on-demand software*.
++ it is considered to be a part of _cloud computing_.

@@ -1,0 +1,13 @@
+** Same Direction
+:PROPERTIES:
+:ID:       43aedb2a-5959-436c-87e5-a529a030d6ae
+:END:
+- The magnitude of the resultant vector is given by the _arithmetic sum_ of the
+  magnitudes of the individual vectors. The direction follows that of the given
+  vectors.
+*** Given
+$\vec{A} = 20\ m/s,\ East$
+$\vec{B} = 40\ m/s,\ East$
+[[file:analytical_method_sum.png]]
+$20\ m/s,\ East + 40\ m/s,\ East \rightarrow \vec{R} = 60\ m/s East$
+

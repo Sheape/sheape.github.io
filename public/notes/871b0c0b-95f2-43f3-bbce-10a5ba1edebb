@@ -1,0 +1,20 @@
+** Types of Equilibrium Points
+:PROPERTIES:
+:ID:       871b0c0b-95f2-43f3-bbce-10a5ba1edebb
+:END:
+[[file:equilibrium_points.png]]
+*** Stable
+:PROPERTIES:
+:ID:       0442b908-a7b1-4067-954d-0b9da1405de3
+:END:
+- The *minimum* of the potential energy graph.
+*** Unstable
+:PROPERTIES:
+:ID:       5a5a013b-7785-4807-8ca6-66bdc104c914
+:END:
+- The *maximum* of the potential energy graph.
+*** Neutral
+:PROPERTIES:
+:ID:       9700ce04-f331-42e4-8306-9469ba6bf993
+:END:
+- Neither maximum nor minimum.

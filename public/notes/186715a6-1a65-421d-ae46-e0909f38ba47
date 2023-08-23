@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       186715a6-1a65-421d-ae46-e0909f38ba47
+:END:
+#+title: Vector
+#+author: Paul Gerald D. Pare
+#+date: August 16, 2023
+
+* Definition
+- a quantity described by *magnitude* and *direction*
+- it originated from the word "/vehere/" meaning _to carry_.
+- Examples include:
+  - velocity
+  - displacement
+  - force
+  - momentum
+  - electric
+  - and
+  - magnetic
+  - fields.
+- An arrow represents a _vector_ quantity.
+- The _length_ of the arrow is scaled to be _proportional_ to the _magnitude_ of the
+  vector quantity it represents; the direction of the arrow indicates the
+  direction of the vector quantity.
+- The symbol for a vector quantity is a capital letter in boldface or by placing
+  an arrow over the symbol.
+- $A\ or \vec{A}$
+- There are several ways to specify direction of a vector. But to avoid
+  confusion, we shall use one method throughout this session. The *direction of a
+  vector* is the _acute angle_ it makes with the east-west line.
+- The angle starts for x-axis. Something like this:
+    [[file:vector_direction.png]]
+
+* Addition
+:PROPERTIES:
+:ID:       c9d4c312-6dc6-4cc1-94c0-af4469c61d81
+:END:
+- The sum of two or more vectors is called the *resultant vector*.
+- Vectors may be added [[id:68e47822-b984-469d-ae2e-2522b9ea1aee][graphically]] or [[id:e639f6e4-b0fc-4022-8534-267899e59278][analytically]].
+
+* Orthogonal Vectors
+:PROPERTIES:
+:ID:       7e25acb5-92dd-4feb-87c7-e7142cfcc8c4
+:END:
+- if the angle between two vectors is $\frac{\pi}{2}$ or $90^{\circ}$, the vectors are *orthogonal*.
+$a\cdot b = 0$ because $cos(\frac{\pi}{2}) = 0$
+* Unit Vector
+:PROPERTIES:
+:ID:       a205bbaf-4e49-4e20-baab-3c4ad49fac41
+:END:
+** Formula
+\begin{align*}
+U = \frac{v}{\lVert v \rVert}
+\end{align*}
+** Example
+Given that we have: $V = \langle 4, -3 \rangle$:
+Find the unit vector of it:
+\begin{align*}
+& U = \frac{V}{\lVert v \rVert}
+= \frac{\langle4, -3\rangle}{5}
+= \left\langle \frac{4}{5}, \frac{-3}{5} \right\rangle \\
+& \lVert v \rVert
+= \sqrt{4^2 + (-3)^2}
+= \sqrt{16 + 9}
+= \sqrt{25}
+= 5
+\end{align*}

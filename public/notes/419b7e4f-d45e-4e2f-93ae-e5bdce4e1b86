@@ -1,0 +1,42 @@
+* Significant Figures
+:PROPERTIES:
+:ID:       419b7e4f-d45e-4e2f-93ae-e5bdce4e1b86
+:SOURCE:   (Youtube) Professor Dave Explains
+:SOURCE_LINK: https://www.youtube.com/watch?v=Gn97hpEkTiM
+:END:
+- We are only limited by the precision of the instrument when measuring.
+  - Ex: We can only estimate 2.33cm but not 2.33481cm.
+** Rules for determining
+:PROPERTIES:
+:ID:       45bcef56-6f25-41cb-a48b-b821f9f6254a
+:END:
+1. Non-zero digits are significant.
+   - 316 -> 3 significant figures.
+2. Zeroes in between other non-zero digits are significant.
+   - 6.003 -> 4 significant figures
+3. Leading zeroes are not significant.
+   -> 0.00035 = 2 significant figures
+4. Trailing decimal zeroes are significant.
+   - 35,000 -> 2 significant figures
+   - 0.035000 -> 5 significant figures
+** Rules when calculating
+:PROPERTIES:
+:ID:       24177a7f-1116-4899-888e-df3b3c6756a8
+:END:
+*ALWAYS* the /least/.
+1. When adding or subtracting, use the fewest number of decimal places.
+#+begin_example
+   10.1 -> 1 decimal place
+\+ 7.43 -> 2 decimal places
+---------
+   17.5 -> 1 decimal place
+#+end_example
+
+2. When multiplying or dividing, use the fewest number of significant figures.
+#+begin_example
+   4.93  -> 3 significant figures
+x  6.027 -> 4 significant figures
+---------
+   29.7  -> 3 significant figures
+#+end_example
+

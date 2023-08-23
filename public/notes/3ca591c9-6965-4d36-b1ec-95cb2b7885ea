@@ -1,0 +1,7 @@
+** Tangential Velocity
+:PROPERTIES:
+:ID:       3ca591c9-6965-4d36-b1ec-95cb2b7885ea
+:END:
+- when an object moves in a circular path at a distance $r$ from the center,
+  then the body's velocity is directed /tangentially/ at any instant.
+- the _linear velocity_ is its /tangential velocity/ at any instant.

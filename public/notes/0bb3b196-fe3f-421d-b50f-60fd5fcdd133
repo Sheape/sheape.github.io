@@ -1,0 +1,61 @@
+** Non-experimental Design
+:PROPERTIES:
+:ID:       0bb3b196-fe3f-421d-b50f-60fd5fcdd133
+:END:
+- quantitative research design that is capable of *giving both of qualitative and quantitative data* but more qualitative data.
+- often used in _social sciences_.
+- it does not have the capability to control variables.
+- instead, it involves variables the way they naturally exist on Earth.
+*** Descriptive
+:PROPERTIES:
+:ID:       5e61020b-e835-48e2-90ff-7b397be8698d
+:END:
+- used to describe a particular *phenomenon* by observing it.
+- No _experimental manipulation_ and the research _does not start with a hypothesis_.
+- /Anastas (1999)/ this research answers the questions (/What/, /Where/, /When/, /Who/, and /How/). +but not why+.
+  - /Melegrito and Mendoza (2016, 23)/ These questions are linked to the *research questions*.
+  - It does not answer "why" because we dont consider the explanation why certain things happen.
+- the goal of this design is to only describe the person or the object of the study.
+#+begin_example
+Ex: "The determination of the different kinds of physical activities and how often high school students do it during the quarantine period."
+#+end_example
+
+*** Comparative
+:PROPERTIES:
+:ID:       e6bd7bfb-f223-4255-b5a0-17e9022bd902
+:END:
+- states the difference or similarities between or among people, things, objects, etc.
+*** Correlational
+:PROPERTIES:
+:ID:       4fe9aad4-e091-46ac-91b2-d6ab32eefdeb
+:END:
+- identifies the relationship between *variables*.
+- data is collected by *observation*.
+- it does not consider the cause and effect.
+- it is based on _pairs of measures_ or _scores_ of a single sample.
+- /Melegrito and Mendoza (2016, 24-25)/ indicates the strengths of a relationship between two variables.
+- No experimental manipulation.
+#+begin_example
+"The relationship of teenagers' sense of humor with positive psychological capacity."
+#+end_example
+
+*** Ex Post Facto
+:PROPERTIES:
+:ID:       c33fbf2f-372e-4da0-8b57-7d76032130e3
+:END:
+- investigate a possible relationship between *previous events* and _present conditions_.
+- The term "/Ex Post Facto/", means _after the fact_.
+- it looks at the *possible causes* of an already occuring phenomenon.
+- No experimental manipulation.
+#+begin_example
+"How does the parent's academic achievement affect the children obesity?"
+#+end_example
+
+*** Survey
+:PROPERTIES:
+:ID:       5b5c1ec2-e45a-436b-9aa2-e44c911094a2
+:END:
+- /Bryman (2016)/
+- intended to _acquire information_ from people.
+- aims to gather data concerning the predominance, distribution, and interrelations of the variables within a group.
+- aims to gather evidence of people's knowledge, opinions, attitudes, and values.

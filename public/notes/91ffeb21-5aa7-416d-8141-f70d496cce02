@@ -1,0 +1,37 @@
+* Horizontal Projection
+:PROPERTIES:
+:ID:       91ffeb21-5aa7-416d-8141-f70d496cce02
+:END:
+** Displacement Calculation
+:PROPERTIES:
+:ID:       171a3d34-9024-4326-b9f7-cb2c1bee97e8
+:END:
+- For any /constant/ acceleration: $d = v_0t + \frac{1}{2}at^2$
+- For any special case of horizontal projection:
+\begin{equation*}
+\begin{split}
+a_x = 0; \\
+a_y = g; \\
+v_{0y} = 0; \\
+v_{0x} = v_0
+\end{split}
+\end{equation*}
+- Horizontal displacement: $d_x = v_{0x}t$
+- Vertical displacement: $d_y = \frac{1}{2}gt^2$
+** Velocity Calculation
+:PROPERTIES:
+:ID:       c5580c47-6a48-415b-9bea-1c3b651465c2
+:END:
+- For any /constant/ acceleration: $v_f = v_0 + at$
+- For any special case of horizontal projection:
+\begin{equation*}
+\begin{split}
+a_x = 0; \\
+a_y = g; \\
+v_{0y} = 0; \\
+v_{0x} = v_0
+\end{split}
+\end{equation*}
+- Horizontal displacement: $v_x = v_{0x}$
+- Vertical displacement: $v_y = gt$
+

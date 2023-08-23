@@ -1,0 +1,22 @@
+** Deriviation
+:PROPERTIES:
+:ID:       14c19b98-1312-4e6c-9943-c290ec42dcd8
+:END:
+- Other Formulas
+\begin{align*}
+& W = \Delta E_k \\
+& W = -\Delta E_p
+\end{align*}
+- Deriviation for general:
+\begin{align*}
+W &= \int_{t_1}^{t_2} Fv\, dt \\
+&= \int_{t_1}^{t_2} F \frac{ds}{\cancel{dt}}\, \cancel{dt} \\
+&= \int_{C}F\cdot ds \\
+&= F\int_{C} ds \\
+&= Fs
+\end{align*}
+- Deriviation with angle \theta:
+\begin{align*}
+W &= \int_{C} F\, ds \\
+&= Fs\ cos\theta
+\end{align*}

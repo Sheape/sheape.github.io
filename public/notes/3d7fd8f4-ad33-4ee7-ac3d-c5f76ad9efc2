@@ -1,0 +1,90 @@
+:PROPERTIES:
+:ID:       3d7fd8f4-ad33-4ee7-ac3d-c5f76ad9efc2
+:END:
+#+title: Kinematics
+#+author: Paul Gerald D. Pare
+#+date: August 16, 2023
+
+* [[id:543a6636-c84e-4bc9-b85b-7996b4cea2e1][Terms]]
+* Methods
+:PROPERTIES:
+:ID:       c84eb473-cfbd-43a8-a190-98b7383b8706
+:END:
+** Inspection
+:PROPERTIES:
+:ID:       5d1d8d29-d50d-48a6-a26d-6d9b55404e28
+:END:
+- using _ordered pairs_ and the definitions of displacement, velocity,
+  acceleration, and time to analyze motion.
+- On position x-time, velocity-time, and acceleration-time graphs.
+- only used for straight line simple graph.
+- All x-time graphs must be _positive_.
+** Slope
+:PROPERTIES:
+:ID:       f9257d33-d1a4-42a9-a453-364d1784ebe8
+:END:
+- *Velocity* of the object can be determined from the graph using slope:
+- Note: The ratio that defines *average velocity* also defines the
+  *slope* of the x-t graph.
+\begin{equation*}
+V = \frac{\Delta x}{\Delta t} = \frac{\Delta x_2 - \Delta x_1}{\Delta t_2 - \Delta t_1}
+\end{equation*}
+- Note: The *slope of a velocity* time graph gives the *acceleration*.
+\begin{equation*}
+A = \frac{\Delta v}{\Delta t} = \frac{[\frac{\Delta x_2 - \Delta x_1}{\Delta t_2 - \Delta t_1}]}{t_2 - t_1}
+\end{equation*}
+** Area under the curve
+:PROPERTIES:
+:ID:       ceb52b54-44cc-44b9-9bb4-ad4dd57698ec
+:END:
+- If the question is asking how far or something in a given *interval*.
+
+* Motion in a Straight Line
+:PROPERTIES:
+:ID:       b84bcfbc-4196-4429-b466-fc125eed4f16
+:END:
+** Uniform Motion
+:PROPERTIES:
+:ID:       176ab3f2-93b5-46f0-be99-fb235ceb2124
+:END:
+- *Simplest* type of motion.
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is /constant/.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /zero/. $A = 0$
+- [[id:d6fc47b7-859d-4aea-982d-2b8d06e7f823][Instantaneous Velocity]] is equal to average velocity. $V_I = V_a$
+- Its [[id:6932631c-365d-4d5a-a04c-cb07f308b00d][displacement]] $d_x$ may be obtained by multiplying its constant velocity
+  /v/ by the time.
+Formula:
+$d_x = vt$
+** Accelerated Motion
+:PROPERTIES:
+:ID:       9d2de597-1133-42f4-8e0a-93558061a02a
+:END:
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is changing.
+** Uniformly Accelerated Motion
+:PROPERTIES:
+:ID:       d0f008b3-2d59-40fb-b5a8-12b038177dc0
+:END:
+- [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][Velocity]] is changing at /constant/ rate.
+- [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]] is /constant/.
+- If an object changes its velocity from an _initial velocity_ $v_i$, and a _final
+  velocity_ $v_f$, during a time interval $t$, its acceleration is given by:
+Formula:
+\begin{equation*}
+a = \frac{v_f - v_i}{t}
+\end{equation*}
+
+* Kinematics Equations
+:PROPERTIES:
+:ID:       e2d2f809-64b0-402f-a045-b67ac2f9dc7c
+:END:
+\begin{equation*}
+\begin{split}
+v_f & = v_i + at \\
+d_x & = v_{i}t + \frac{1}{2}at^2 \\
+2ad_x & = v_{f}^{2} - v_{i}^{2}
+\end{split}
+\end{equation*}
+- Use the first formula if $d_x$ is not given.
+- Use the second formula if $v_f$ is not given.
+- Use the third formula if $t$ is not given.
+* [[id:63b216d7-2c1e-4183-b755-ad0d20869f2e][Free Fall]]

@@ -1,0 +1,12 @@
+* Speed
+:PROPERTIES:
+:ID:       772e3044-92d2-47e2-b7dc-48f65c642570
+:END:
+- *Speed* is the [[id:3a7d04d6-efac-4205-bc30-c05689c3dbb8][distance]] that a body moves in a unit time.
+- Since distance is scalar quantity. Speed is also a [[id:3e726f82-bf1a-4cf0-a332-b28a53aa6589][scalar]] quantity.
+** Formula
+\begin{align*}
+& s = \frac{d}{t} \\
+& s = \frac{d}{dt}(l)
+\end{align*}
+- where $l$ is the length of path or /distance/.

@@ -1,0 +1,66 @@
+:PROPERTIES:
+:ID:       a833fd46-1867-474e-9f28-219c63e60cc5
+:END:
+#+title: Newton's Law of Motion
+#+author: Paul Gerald D. Pare
+#+date: August 17, 2023
+#+GIT_COMMIT_MSG: Q1W4(Physics): Newton's Law of Motion
+
+* Force
+:PROPERTIES:
+:ID:       e3d5c1cf-5133-4ecd-9727-4c26b3da05bb
+:END:
+- Represents the push or pull applied to an object to change its motion or
+  shape.
+- *Force* is a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity, which means it has both magnitude and direction.
+- The [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] for force is /Newton (N)/.
+|----------+--------------+-----------------------------------------------------------------------------------|
+| Force    | Symbol       | Direction                                                                         |
+|----------+--------------+-----------------------------------------------------------------------------------|
+| Friction | $F_f$        | Parallel to surface & opposite direction of sliding                               |
+| Normal   | $F_N$        | Perpendicular to & away from th surface.                                          |
+| Spring   | $F_{sp}$     | Opposite the displacement of the object at end of spring.                         |
+| Tension  | $F_T$        | Away from the object & parallel to spring, rope, or cable at point of attachment. |
+| Thrust   | $F_{thrust}$ | In same direction as acceleration of object.                                      |
+| Weight   | $W\ or\ F_g$ | Straight down toward center of Earth.                                             |
+|----------+--------------+-----------------------------------------------------------------------------------|
+* Action-Reaction Pairs
+:PROPERTIES:
+:ID:       862d44e6-4fca-4cfd-84ee-5c00c3fb39e9
+:END:
+- Based on *Newton's Third Law of Motion*, all _forces come in pairs_.
+- Interaction pair is composed of two forces that are in _opposite directions_ and
+  _equal in magnitude_.
+* [[id:63d4edd1-850e-46cd-9650-47d35e5d554c][Free-Body Diagram]]
+* First Law of Motion
+:PROPERTIES:
+:ID:       10a192ca-e7c6-4519-93f8-f3cdace33a1e
+:END:
+- also called Law of [[id:dd051025-ebab-431e-a684-324c3973dc20][Inertia]]
+- An object at rest will stay at rest and an object at motion with stay in
+  motion at /constant/ velocity unless acted upon by external force.
+** Inertial Frames of Reference
+:PROPERTIES:
+:ID:       8216cbb0-0e63-43cb-adfb-b9675f62003b
+:END:
+- Any *reference frame* that is moving at /constant/ [[id:a7977a7d-2910-471c-a0c1-58a7f58daa54][velocity]].
+- "A _frame of reference_ in which *Newton's First Law* is obeyed is called [[id:8216cbb0-0e63-43cb-adfb-b9675f62003b][Inertial Frames of Reference.]]"
+* Second Law of Motion
+:PROPERTIES:
+:ID:       bade249b-bd9a-4f21-9e3e-a53defde88d4
+:END:
+- also called Law of [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][Acceleration]].
+$a \propto\frac{F}{m}$
+- continues what the [[id:10a192ca-e7c6-4519-93f8-f3cdace33a1e][first law of motion]] told us. When a net force is applied,
+  it produces [[id:bbe2b7b4-6392-441c-b597-f38a51d66d7d][acceleration]].
+- This law tells us that $F = ma$ that came from $F = \frac{d}{dt}(mv)$
+- Deriviation of [[id:2e95e136-0a9a-4945-9748-866f4922fccb][SI Unit]] of force:
+  - $1N = (1kg)(1 m/s^2)$ or
+  - $1N = 1\frac{kg\cdot m}{s^2}$
+- Use $kg$ for mass; weight in $N$.
+* Third Law of Motion
+:PROPERTIES:
+:ID:       845c8390-1129-4123-a18e-07a7a0c53892
+:END:
+- For every action, there must be equal and opposite reaction force.
+- $Action = -Reaction$

@@ -1,0 +1,11 @@
+--- OrgImage.tsx
++++ OrgImage.tsx
+@@ -47,7 +47,7 @@ export const OrgImage = (props: OrgImageProps) => {
+ 
+   return (
+     <Container my={4} position="relative">
+-      <img alt="Wow, an image." src={`http://localhost:35901/img/${encodedPath}`} />
++      <img alt="Wow, an image." src={srcName} />
+     </Container>
+   )
+ }
