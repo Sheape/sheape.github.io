@@ -1,4 +1,46 @@
-** Cytokinesis
 :PROPERTIES:
 :ID:       f376509a-3232-4543-a85e-fe36bd1d3e58
 :END:
+#+title: Cytokinesis
+#+author: Paul Gerald D. Pare
+#+date: August 23, 2023
+
+* Definition
+- "_Cell Motion_"
+- The second main stage of the mitotic phase during which the physical
+  separation of the cytoplasmic components into two daughter cells.
+- Cytokinesis works differently for plant cells which have cell walls.
+- An /Actomyosin contractile ring/ is formed after Telophase in the middle of the
+  _spindle midzone_.
+  - This contractile ring creates a fissure or "crack" called /cleavage furrow/.
+** Steps
+:PROPERTIES:
+:ID:       b6aee3ac-01b0-4d00-8b2d-52280e7a11f5
+:END:
+***  Initiation
+:PROPERTIES:
+:ID:       82cf78d0-fc84-4f0b-bad0-f5cfc95a5413
+:END:
+- starts at [[id:970970d7-48b0-41b9-a0dc-547144598595][Anaphase]]
+***  Contraction
+:PROPERTIES:
+:ID:       1902234e-31ef-4b46-ba9e-949ace256741
+:END:
+- as the contractile ring contracts, there is a formation of /Intercellular Bridge/
+***  Membrane Insertion
+:PROPERTIES:
+:ID:       cd6f3b94-81ab-4767-863a-3a3fea951cbf
+:END:
+- fusion of _intracellular vesicles_
+***  Completion
+:PROPERTIES:
+:ID:       17fd09a6-4369-48a1-b45b-8e0cc551fc79
+:END:
+- also called /abscission/ is the final cleaving of the two daughter cells.
+
+** Syncytium
+:PROPERTIES:
+:ID:       09267a79-6e99-4617-99e4-c03077fbb824
+:END:
+- Cell with multiple nuclei
+- Cells that dont undergo cytokinesis but still do nuclear division.

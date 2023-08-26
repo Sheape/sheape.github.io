@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID:       a35ed67b-c990-4512-9703-9c79d5e6598b
+:END:
+#+title: Prophase I
+#+author: Paul Gerald D. Pare
+#+date: August 25, 2023
+
+* Definition
+- longest and most complex phase (90%).
+- [[id:a3e8779a-2286-4862-ac3a-487fdf2a5bf8][Chromosomes]] condense.
+- Nucleus and nucleolus disappear.
+- Spindle forms.
+* Homologous chromosomes
+:PROPERTIES:
+:ID:       ea5afb0b-d31d-415d-b9e4-87204e523b94
+:END:
+- Non-sister chromatids that have homologous regions code for the same gene.
+* Synapsis
+:PROPERTIES:
+:ID:       81fd43f0-51ab-4772-864b-5d93d4369f9e
+:END:
+- an event when the *homologous chromosomes/pairs* come together and exchange information.
+- You can also call these pairs as "/Tetrad/" which consists of two chromosomes or
+  four [[id:67443bd8-8026-455d-b600-18e05fdb7aa5][chromatids]].
+- The _synaptonemal complex_ adjoins each strand of DNA to its correct position.
+
+* Crossing Over
+:PROPERTIES:
+:ID:       79cd9ad0-f4db-4b7f-a28e-ede7f1ea8fd1
+:END:
+- It occurs between non-sister chromatids
+- segments of non-sister chromatids break and reattach to the other chromatid.
+- causes *genetic recombination*.
+* Sex Chromosomes
+:PROPERTIES:
+:ID:       8ec88b63-ff09-42d0-9eae-773b8cd9a232
+:END:
+- XX chromosome for female
+- XY chromosome for male
+
+* Sub-stages
+:PROPERTIES:
+:ID:       8b2c6cd6-9761-4970-a82b-3c1d36b93421
+:END:
+** Leptotene
+:PROPERTIES:
+:ID:       59f4be9c-ff74-48d0-9771-b2a3be388f87
+:END:
+- The chromosomes begin to condense
+** Zygotene
+:PROPERTIES:
+:ID:       1021140f-ed05-4d48-a8e3-7b11fcb17450
+:END:
+- [[id:81fd43f0-51ab-4772-864b-5d93d4369f9e][Synapsis]] begins with a synaptonemal complex forming between homologous chromosomes.
+** Pachytene
+:PROPERTIES:
+:ID:       e95f788d-80c1-4deb-a448-be7344f9326c
+:END:
+- Crossing over of genetic material occurs between non-sister chromatids
+** Diplotene
+:PROPERTIES:
+:ID:       a9be3be2-04d0-4895-b3ab-2dfbb4ad189f
+:END:
+- Synapsis ends with disappearance of synaptonemal complex
+- homologous pairs remain attached at chiasmata
+** Diakinesis
+:PROPERTIES:
+:ID:       21232d35-8f28-4c35-be10-1f0e2750d08c
+:END:
+- Chromosomes become fully condensed and nuclear membrane disintegrates prior to
+  metaphase I
+

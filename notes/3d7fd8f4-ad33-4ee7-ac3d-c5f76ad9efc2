@@ -79,12 +79,11 @@ a = \frac{v_f - v_i}{t}
 :END:
 \begin{equation*}
 \begin{split}
-v_f & = v_i + at \\
-d_x & = v_{i}t + \frac{1}{2}at^2 \\
-2ad_x & = v_{f}^{2} - v_{i}^{2}
+v_f & = v_i + a\Delta t,\ \text{(no }\Delta x \text{)} \\
+\Delta x & = v_{i}\Delta t + \frac{1}{2}a\Delta t^2,\ \text{(no }v_f \text{)}\\
+\Delta x & = \left(\frac{v_i + v_f}{2}\right)\Delta t,\ \text{(no a)}\\
+\Delta x & = v_f \Delta t - \frac{a\Delta t^2}{2},\ \text{(no }v_i\text{)} \\
+2a\Delta x & = v_{f}^{2} - v_{i}^{2},\ \text{(no }\Delta t \text{)}
 \end{split}
 \end{equation*}
-- Use the first formula if $d_x$ is not given.
-- Use the second formula if $v_f$ is not given.
-- Use the third formula if $t$ is not given.
 * [[id:63b216d7-2c1e-4183-b755-ad0d20869f2e][Free Fall]]
