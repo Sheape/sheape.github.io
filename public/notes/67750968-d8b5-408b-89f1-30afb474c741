@@ -13,11 +13,26 @@
 :END:
 - also known as *mitosis*.
 *** [[id:0035d50b-7547-430e-aa6e-68f2e2b3324e][Prophase]]
-*** Prometaphase
-*** Metaphase
-*** Anaphase
-*** Telophase
-** Cytokinesis
+*** [[id:675962a7-f416-4b8b-b522-2130ec98a719][Prometaphase]]
+*** [[id:74371c98-f4da-4ce2-b020-96fc837b11cc][Metaphase]]
+*** [[id:970970d7-48b0-41b9-a0dc-547144598595][Anaphase]]
+*** [[id:46cf1a8d-266d-46d3-9057-c1d79081dd7f][Telophase]]
+** [[id:f376509a-3232-4543-a85e-fe36bd1d3e58][Cytokinesis]]
+** Checkpoint
 :PROPERTIES:
-:ID:       f376509a-3232-4543-a85e-fe36bd1d3e58
+:ID:       bfd7bb07-9fbd-4cce-98a0-2b677524bacc
 :END:
+- For mitotic phase, it is also called the _M (spindle) Checkpoint_
+- it occurs during [[id:74371c98-f4da-4ce2-b020-96fc837b11cc][Metaphase]]
+- attachment of spindle fibers to kinetochores are checked
+  + This is to ensure that the chromatids are aligned properly.
+*** Stimulating Protein
+:PROPERTIES:
+:ID:       c4b9b923-20fc-4b26-ae26-d63bea48ddc2
+:END:
+- anaphase-promoting complex/cyclosome (APC/C)
+*** Inhibiting Proteins
+:PROPERTIES:
+:ID:       9001d49f-8c36-43b6-84de-13dc0aa943dd
+:END:
+- mitotic arrest deficient (MAD) proteins

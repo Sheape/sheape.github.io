@@ -7,6 +7,7 @@
   - it is a [[id:186715a6-1a65-421d-ae46-e0909f38ba47][vector]] quantity.
 ** Formula
 \begin{align*}
+& \Delta x = \left(\frac{v_i + v_f}{2}\right)\Delta t,\ \text{only true when acceleration is constant}\\
 & x = \iint \vec{a}\, dt\, dt \\
 & x = \int\vec{v}\, dt
 \end{align*}

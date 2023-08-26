@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       267d1e4a-de2e-433a-812d-19514b5a26b1
+:END:
+#+title: Cell Membrane
+#+author: Paul Gerald D. Pare
+#+date: August 25, 2023
+#+GIT_COMMIT_MSG: Q1W4(Biology): Cell Membrane
+
+* Definition
+[[file:cell_membrane.png]]
+- a membrane made of *phospholipid bilayer* with embedded proteins that separates
+  insides of the cell from its environment.
+- it is about 8 nanometer thick
+* Models
+:PROPERTIES:
+:ID:       ff18daad-31dc-4347-8a7f-faaa976c6eaf
+:END:
+** Railroad Track
+:PROPERTIES:
+:ID:       56bc2df5-1d17-40c0-b03e-f1f43146a844
+:END:
+[[file:railroad_track.png]]
+- Done in *1935*
+- _Hugh Davson_ and _James Danielli_
+- the structure resembles a sandwich, with _protein_ similar to the bread and
+  _lipids_ similar to the filling.
+** Fluid Mosaic Model
+:PROPERTIES:
+:ID:       04e36df5-d6bf-410b-8385-93bd1b618249
+:END:
+[[file:fluid_mosaic.png]]
+- in the *1950s*, advances in microscopy allowed researchers to see more and they
+  found out that the membrane is composed of double rather than single layer.
+- Done in *1972*
+- _Seymour Singer_ and _Garth Nicolson_
+- The structure & functions of the membrane as a _mosaic_ of components.
+* Functions
+** Protection
+:PROPERTIES:
+:ID:       b5cb11c9-8dec-4872-9431-7e33ee94731b
+:END:
+- serves as barrier that separates inside of the cell from its surrounding.
+** Material Transport
+:PROPERTIES:
+:ID:       9bfe2f28-522c-4759-9008-2fe265d4807e
+:END:
+- Semi-Permeable Membrane that regulates what goes in and out of the cell.
+** Cell Shape
+:PROPERTIES:
+:ID:       26f63132-95b6-4dd4-ad67-946c0e52989e
+:END:
+- serves as the attachment point of the [[id:cbc90f10-32b0-4953-8848-f0943c707de8][Cytoskeleton]] which aids in maintaining
+  the shape of the cell.
+** Compartmentalization
+:PROPERTIES:
+:ID:       58b0f3a2-fd74-45c4-9440-d938ca69db98
+:END:
+- separates organelles from each other and from the [[id:e3f8accc-0bd5-47c6-8268-b0fb72e873d4][cytoplasm]]
+** Cell Recognition
+:PROPERTIES:
+:ID:       eac0d658-9c83-45f7-be4d-4708c07cf4f9
+:END:
+- enables cells to identify other cells and foreign substances (like virus).
+** Cell Function
+:PROPERTIES:
+:ID:       572e422f-6be5-455f-8fd0-4c8ecfc9fdc2
+:END:
+- plays a vital role in the performance of the cell's function.
+  - Locomotion
+  - Absorption
+  - Impulse Transmission
+
+* Principal Components
+:PROPERTIES:
+:ID:       699e97e1-f300-46c5-b8f7-0c5b35250218
+:END:
+** [[id:aef15316-ec71-4936-8774-220dc15d8d55][Lipids]]
+** [[id:0d9f862b-c702-41c7-8423-4b2181725333][Proteins]]
+** [[id:dbdc1426-c6e2-4a3a-9878-93402c914ce5][Carbohydrates]]
+** [[id:42d31c68-108a-4faf-8e75-2bac31d7ba64][Cholesterol]]

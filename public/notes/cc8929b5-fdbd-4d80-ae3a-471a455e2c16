@@ -7,7 +7,7 @@
   regards the _dynamic behavior_ of [[id:b4985054-6ddd-4176-bc88-5a87e98faca3][potential energy]] as a function of position.
 - This is a linear graph.
 - Freely falling object near the surface of the earth is a good example when air
-  resistance is neglected. Mechanical energy is conserved, $E = K + U$, and the potential energy is zero at ground level.
+  resistance is /neglected/. _Mechanical energy_ is *conserved*, $E = K + U$, and the potential energy is zero at ground level.
 - $E_{mechanical}$ is fixed and cannot gain or lose energy because
   $W_{non-conservative} = 0$.
 ** Formulas
